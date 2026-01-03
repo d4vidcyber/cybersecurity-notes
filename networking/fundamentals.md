@@ -52,6 +52,8 @@ Network topology refers to the physical or logical arrangement of devices (nodes
 **6. Hybrid Topology:** Combination of two or more topologies.
 > Example: Large corporate networks combining star and mesh layouts.
 
+![Network topologies diagram](../assets/network-topologies.png)
+
 ## Network Models
 [Short note on networking model here]
 
