@@ -55,6 +55,44 @@ Network topology refers to the physical or logical arrangement of devices (nodes
 ![Network topologies diagram](../assets/network-topologies.png)
 
 ## Network Models
-[Short note on networking model here]
 
+A network model is a layered framework that explains how data is transmitted and communicated between devices on a network.
 
+Network models describe how network communication is structured and standardized using layered architectures. The two primary network models are:
+
+**1. Open System Interconnection Model `OSI`:** A conceptual seven-layer model used to understand, design, and troubleshoot network communication. An overview of each `OSI` Layer:
+  - **Layer 1 `Physical`:** Transmits raw bits over physical media.
+    > Example: Network cables and electrical signals.
+    
+  - **Layer 2 `Data Link`:** Manages physical addressing and error detection.
+    > Example: Ethernet frames using MAC addresses.
+    
+  - **Layer 3 `Network`:** Handles logical addressing and routing.
+    > Example: `IP` routing packets across networks.
+    
+  - **Layer 4 `Transport`:** Ensures reliable or fast data delivery.
+    > Example: `TCP` for reliable transmission, `UDP` for fast streaming.
+    
+  - **Layer 5 `Session`:** Manages sessions and connections between devices.
+    > Example: Maintaining a login session.
+    
+  - **Layer 6 `Presentation`:** Handles data formatting, encryption, and compression.
+    > Example: `SSL/TLS` encrypting data.
+    
+  - **Layer 7 `Application`:** Provides network services directly to user applications.
+    > Example: Web browsers using `HTTP`.
+
+![OSI layer model](../assets/osi-model.png)
+
+**2. Transmission Control Protocol / Internet Protocol `TCP/IP`:** A practical four-layer model used in real-world networks, especially the Internet. Each `TCP/IP` layers are listed below:
+  - **Network Access Layer:** Manages physical transmission and local network delivery.
+    > Example: Ethernet and Wi-Fi.
+    
+  - **Internet Layer:** Handles logical addressing and routing across networks.
+    > Example: `IP` and `ICMP`.
+    
+  - **Transport Layer:** Manages end-to-end communication and reliability.
+    > Example: `TCP` and `UDP`.
+    
+  - **Application Layer:** Combines `OSI` application, presentation, and session layers; provides network services to applications.
+    > Example: `HTTP`, `FTP`, `SMTP`.
