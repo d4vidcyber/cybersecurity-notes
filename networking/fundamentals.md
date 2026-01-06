@@ -60,7 +60,7 @@ A network model is a layered framework that explains how data is transmitted and
 
 Network models describe how network communication is structured and standardized using layered architectures. The two primary network models are:
 
-**1. Open System Interconnection Model `OSI`:** A conceptual seven-layer model used to understand, design, and troubleshoot network communication. An overview of each `OSI` Layer:
+**1. Open System Interconnection `OSI` Model:** A conceptual seven-layer model used to understand, design, and troubleshoot network communication. An overview of each `OSI` Layer:
   - **Layer 1 `Physical`:** Transmits raw bits over physical media.
     > Example: Network cables and electrical signals.
     
@@ -84,7 +84,7 @@ Network models describe how network communication is structured and standardized
 
 ![OSI layer model](../assets/osi-model.png)
 
-**2. Transmission Control Protocol / Internet Protocol `TCP/IP`:** A practical four-layer model used in real-world networks, especially the Internet. Each `TCP/IP` layers are listed below:
+**2. Transmission Control Protocol / Internet Protocol `TCP/IP` Model:** A practical four-layer model used in real-world networks, especially the Internet. Each `TCP/IP` layers are listed below:
   - **Network Access Layer:** Manages physical transmission and local network delivery.
     > Example: Ethernet and Wi-Fi.
     
