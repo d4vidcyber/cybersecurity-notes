@@ -96,3 +96,18 @@ Network models describe how network communication is structured and standardized
     
   - **Application Layer:** Combines `OSI` application, presentation, and session layers; provides network services to applications.
     > Example: `HTTP`, `FTP`, `SMTP`.
+
+## Data Transmisson
+Data transmission refers to the process of sending data from one device to another over a communication medium, following defined rules (protocols) to ensure accurate and reliable delivery.
+
+## Classification of Data Transmission
+**1. Based on Direction of Data Flow:**
+  - **Simplex:**
+  - **Half-Duplex:**
+  - **Full-Duplex:**
+
+**2. Based on Signal Type:**
+  - **Analog Transmission:**
+  - **Digital Transmissionn:**
+
+**3. Based on Data Delivery Method**
