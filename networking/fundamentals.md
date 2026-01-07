@@ -229,7 +229,7 @@ Network communication is the process by which devices exchange data using define
    | **Jitter** | milliseconds `ms`. |
    | **Packet Loss** | Percentage `%` or a fraction. |
    
-   [Click here for more Performance metrics and their descriptions.](#key-concepts-of-data-transmission)
+   [Click here for their descriptions.](#key-concepts-of-data-transmission)
    <!---- Add a link to reference their definition in the 'Key concept of data transmission' ---->
    
 
