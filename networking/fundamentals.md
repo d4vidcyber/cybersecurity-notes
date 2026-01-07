@@ -168,7 +168,6 @@ Network communication is the process by which devices exchange data using define
    | **Packet Loss** | Percentage `%` or a fraction. |
    
    [Click here for their descriptions.](#key-concepts-of-data-transmission)
-   <!---- Add a link to reference their definition in the 'Key concept of data transmission' ---->
 
    
 ## Data Transmisson
@@ -234,3 +233,44 @@ Data transmission is built on the following key concepts:
 **12 .Packet Loss:** The percentage of data packets that fail to reach their destination, often requiring retransmissions.
 
 <!--- _Difference between Packet and Circuit Switching [here]_ --->
+### Network Switching
+
+Network Switching is the process of directing data from one device to another within a network or between networks, using switches.
+  > A switch connects devices within a network, sending data only to the intended recipient using `MAC` addresses. It delivers information to devices like computers and phones and forwards data to a router for communication outside the local network.
+
+### Network Switching Process
+**Frame Arrival:** A device sends a data frame to the switch.
+
+**Learning:** The switch reads the source `MAC` address and notes which port it came from, adding this pair to its `MAC` table.
+
+**Lookup:** The switch reads the destination `MAC` address in the frame.
+
+**Forwarding:** If `MAC` is known, the switch forwards the frame only out the port associated with the destination `MAC` address (direct communication). If `MAC` is unknown, the switch "floods" the frame out all ports (except the one it came in on) to find the device.
+
+![How a Switch works](../assets/network-switch.png)
+
+### Types of Network Switching
+There are three types of Network switching:
+
+  - **Circuit Switching:** A dedicated communication path is established between sender and receiver for the entire session.
+    > Example: Traditional telephone networks.
+    
+  - **Packet Switching:** Data is broken into packets that travel independently across the network and are reassembled at the destination.
+    > Example: The Internet.
+
+  - **Message Switching:** Data is sent as a complete message to the network, stored temporarily at intermediate nodes, and then forwarded to the next node until it reaches the destination. Also know as store-and-forward switching.
+    > Example: Email systems and early telegraph networks.
+
+### Comparision of Network Switching Types
+
+| **Feature** | **Circuit Switching** | **Packet Switching** | Message Switching |
+|:---:|:---|:---|:---|
+| **Connection** | A fixed, dedicated path is established before transmission. | No dedicated path; packets sent independently | No dedicated path; messages sent as a whole and stored at nodes |
+| **Resource Usage** | Reserved for whole session, even when idle | Used only when sending packets | Intermediate nodes store message until forwarded |
+| **Delay** | Low delay after initial setup. | Delay varies based on network conditions. | High transmission delay. |
+| **Reliability** | Reliable with guaranteed connection. | Reliable with error control and retransmission. | Less reliable and obsolete. |
+| **Efficiency** | Inefficient because bandwidth remains reserved even when idle. | Highly efficient due to optimal bandwidth utilization. | Very inefficient due to full message storage and forwarding. |
+| **Data Transfer** | Continuous stream | Discrete packets | Complete messages |
+
+
+
