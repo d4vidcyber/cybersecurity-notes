@@ -100,14 +100,131 @@ Network models describe how network communication is structured and standardized
 ## Data Transmisson
 Data transmission refers to the process of sending data from one device to another over a communication medium, following defined rules (protocols) to ensure accurate and reliable delivery.
 
-## Classification of Data Transmission
+### Classification of Data Transmission
+
+Here are some classifications of Data Transmission:
+
 **1. Based on Direction of Data Flow:**
-  - **Simplex:**
-  - **Half-Duplex:**
-  - **Full-Duplex:**
+  - **Simplex:** Data flows in one directino only.
+    > Example: Keyboard to computer.
+
+  - **Half-Duplex:** Data flows in both directions, but not at the same time.
+    > Example: Walkie-talkies.
+
+  - **Full-Duplex:** Data flows in both directions simultaneously.
+    > Example: Modern Ethernet communication.
 
 **2. Based on Signal Type:**
-  - **Analog Transmission:**
-  - **Digital Transmissionn:**
+  - **Analog Transmission:** Uses continuous signals.
+    > Example: Traditional telephone calls.
+
+  - **Digital Transmissionn:** Uses discreate binary signals.
+    > Example: Computer network data.
 
 **3. Based on Data Delivery Method**
+  - **Unicast:** One sender to one receiver.
+    > Example: A user accessing a website.
+
+  - **Broadcast:** One sender to all devices on a network.
+    > Example: `ARP` requests in a `LAN`.
+
+  - **Multicast:** One sender to a selected group of receivers.
+    > Example: Internet Protocol Television `IPTV` streaming.
+
+### Key concepts of Data Transmission
+
+Data transmission is built on the following key concepts:
+
+**1. Source and Destination:** The originating device and the intended receiving device of the data.suspicious traffic.
+
+**2. Transmission Medium:** The path through which data travels (wired or wireless).
+
+**3. Data Encoding:** The conversion of data into signals suitable for transmission.
+
+**4. Bandwidth:** The maximum theoretical data capacity of a network link.
+
+**5. Transmission Modes:** The direction and timing of data flow (simplex, half-duplex, full-duplex).
+
+**6. Error Detection and Correction:** Mechanisms used to identify and fix transmission errors.
+
+**7. Protocols:** Rules that govern how data is transmitted, received, and acknowledged.
+
+**8. Latency:** The time delay in data transfer from source to destination.
+
+**9. Throughput:** The actual rate of successful data delivery over time, accounting for overhead and network conditions.
+
+**10. Goodput:** A subset of throughput that measures only the useful data delivered to the destination.
+
+**11. Jitter:** The variation in packet delay over time, critical for maintaining quality in real-time applications like video or VoIP.
+
+**12 .Packet Loss:** The percentage of data packets that fail to reach their destination, often requiring retransmissions.
+
+## Network Communication `Adjust postioning --> Above Data Transmission`
+
+Network communication is the process by which devices exchange data using defined rules and mechanisms.
+
+### Components of Network Communication
+
+1. Endpoints (Nodes): Computers, phones, printers, servers that send or receive data.
+
+2. Networking Devices: Equipment that forwards, filters, or manages data.
+   - **Switch:**  Connects devices within a local network `LAN` and forwards data based on Media Access COntrol `MAC` addresses.
+     > Example: Connecting multiple computers in an office network.
+
+   - **Router:** Connects different networks and routes data based on IP addresses.
+     > Example: Routing traffic between a home network and the Internet.
+
+   - **Access Point:** Provides wireless access to a wired network.
+     > Example: Allowing laptops and phones to connect to a `LAN` via Wi-Fi.
+
+   - **Modem:** Converts signals between a digital network and an ISP’s transmission medium.
+     > Example: Converting `ISP` signals to usable Internet access at home.
+
+   - **Firewall:** Monitors and controls incoming and outgoing network traffic based on security rules.
+     > Example: Blocking unauthorized access to a corporate network.
+
+3. Transmission Media: These are the paths thorugh which data travels from a sender to a reciever. It is classified into two main types:
+  - Guided Media (Wired): Data travels through a  physical medium.
+    > Examples: Ethernet and Fiber-optic cables
+
+  - Unguided Media (Wireless): Data travels through air as electromagnetic waves.
+    > Examples: Radio waves, Microwaves and Infrared
+
+  > While wireless media are more flexible and mobile than wired media, they are more susceptible to interference and eavesdropping.
+
+4. Protocols: These are rules governing communication ensuring devices speak the same language. There are classified based on based on fucntion and layer, below are the classes of protocols based on their layers:
+
+  **a. Application Layer Protocols:** Enables communication between applications and users.
+    - HyperText Transfer Protocol and Secure `HTTP / HTTPS`: Communication between web browsers and websites.
+    - File Transfer Protocol `FTP`: Transferring computer files between a client and a server on a network.
+    - Simple Mail Transfer Protocol / Post Office Protocol 3 / Internet Message Access Protocol `SMTP / POP3 / IMAP`: Email Transmission.
+
+  **b. Transport Layer Protocols:** Controls data delivery between hosts.
+    - Transmission Control Protocol `TCP`: Reliable, ordered, error-checked delivery.
+    - User Datagram Protocol `UDP`: Fast, connectionless delivery.
+    
+  **c. Internet / Network Layer Protocols:** Handles addressing and routing.
+    - Internet Protocol `IP`: Logical addressing and packet routing
+    - Internet Control Message Protocol `ICMP`: Error reporting and diagnostics
+
+5. Addressing: Addressing identifies devices and services on a network so data reaches the correct destination. It is classified below:
+
+  a. Physical Addressing:
+    - MAC Address: Unique hardware identifier at Layer 2
+      > Example: Used by switches for local delivery
+  b. Logical Addressing:
+    - IP Address (IPv4 / IPv6): Identifies devices across networks
+      > Example: Used by routers for packet routing
+  c. Port Addressing: 
+    -Port Numbers: Identify specific services on a device
+      > Example: HTTP (80), HTTPS (443)
+
+6. Performance Metrics: Performance metrics are measurable values used to evaluate the efficiency, reliability, and quality of network communication. They are critical for assessing normal behavior and identifying anomalies. They include:
+   - Bandwdith
+   - Thhroughput
+   - Goodpput
+   - Latency
+   - Jitter
+   - Packet Loss
+
+_Difference between Packet and Circuit Switching [here]_
