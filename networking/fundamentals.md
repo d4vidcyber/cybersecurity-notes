@@ -97,69 +97,7 @@ Network models describe how network communication is structured and standardized
   - **Application Layer:** Combines `OSI` application, presentation, and session layers; provides network services to applications.
     > Example: `HTTP`, `FTP`, `SMTP`.
 
-## Data Transmisson
-Data transmission refers to the process of sending data from one device to another over a communication medium, following defined rules (protocols) to ensure accurate and reliable delivery.
-
-### Classification of Data Transmission
-
-Here are some classifications of Data Transmission:
-
-**1. Based on Direction of Data Flow:**
-  - **Simplex:** Data flows in one directino only.
-    > Example: Keyboard to computer.
-
-  - **Half-Duplex:** Data flows in both directions, but not at the same time.
-    > Example: Walkie-talkies.
-
-  - **Full-Duplex:** Data flows in both directions simultaneously.
-    > Example: Modern Ethernet communication.
-
-**2. Based on Signal Type:**
-  - **Analog Transmission:** Uses continuous signals.
-    > Example: Traditional telephone calls.
-
-  - **Digital Transmissionn:** Uses discreate binary signals.
-    > Example: Computer network data.
-
-**3. Based on Data Delivery Method**
-  - **Unicast:** One sender to one receiver.
-    > Example: A user accessing a website.
-
-  - **Broadcast:** One sender to all devices on a network.
-    > Example: `ARP` requests in a `LAN`.
-
-  - **Multicast:** One sender to a selected group of receivers.
-    > Example: Internet Protocol Television `IPTV` streaming.
-
-### Key concepts of Data Transmission
-
-Data transmission is built on the following key concepts:
-
-**1. Source and Destination:** The originating device and the intended receiving device of the data.suspicious traffic.
-
-**2. Transmission Medium:** The path through which data travels (wired or wireless).
-
-**3. Data Encoding:** The conversion of data into signals suitable for transmission.
-
-**4. Bandwidth:** The maximum theoretical data capacity of a network link.
-
-**5. Transmission Modes:** The direction and timing of data flow (simplex, half-duplex, full-duplex).
-
-**6. Error Detection and Correction:** Mechanisms used to identify and fix transmission errors.
-
-**7. Protocols:** Rules that govern how data is transmitted, received, and acknowledged.
-
-**8. Latency:** The time delay in data transfer from source to destination.
-
-**9. Throughput:** The actual rate of successful data delivery over time, accounting for overhead and network conditions.
-
-**10. Goodput:** A subset of throughput that measures only the useful data delivered to the destination.
-
-**11. Jitter:** The variation in packet delay over time, critical for maintaining quality in real-time applications like video or VoIP.
-
-**12 .Packet Loss:** The percentage of data packets that fail to reach their destination, often requiring retransmissions.
-
-## Network Communication `Adjust postioning --> Above Data Transmission`
+## Network Communication
 
 Network communication is the process by which devices exchange data using defined rules and mechanisms.
 
@@ -231,6 +169,68 @@ Network communication is the process by which devices exchange data using define
    
    [Click here for their descriptions.](#key-concepts-of-data-transmission)
    <!---- Add a link to reference their definition in the 'Key concept of data transmission' ---->
-   
 
-_Difference between Packet and Circuit Switching [here]_
+   
+## Data Transmisson
+Data transmission refers to the process of sending data from one device to another over a communication medium, following defined rules (protocols) to ensure accurate and reliable delivery.
+
+### Classification of Data Transmission
+
+Here are some classifications of Data Transmission:
+
+**1. Based on Direction of Data Flow:**
+  - **Simplex:** Data flows in one directino only.
+    > Example: Keyboard to computer.
+
+  - **Half-Duplex:** Data flows in both directions, but not at the same time.
+    > Example: Walkie-talkies.
+
+  - **Full-Duplex:** Data flows in both directions simultaneously.
+    > Example: Modern Ethernet communication.
+
+**2. Based on Signal Type:**
+  - **Analog Transmission:** Uses continuous signals.
+    > Example: Traditional telephone calls.
+
+  - **Digital Transmissionn:** Uses discreate binary signals.
+    > Example: Computer network data.
+
+**3. Based on Data Delivery Method**
+  - **Unicast:** One sender to one receiver.
+    > Example: A user accessing a website.
+
+  - **Broadcast:** One sender to all devices on a network.
+    > Example: `ARP` requests in a `LAN`.
+
+  - **Multicast:** One sender to a selected group of receivers.
+    > Example: Internet Protocol Television `IPTV` streaming.
+
+### Key concepts of Data Transmission
+
+Data transmission is built on the following key concepts:
+
+**1. Source and Destination:** The originating device and the intended receiving device of the data.suspicious traffic.
+
+**2. Transmission Medium:** The path through which data travels (wired or wireless).
+
+**3. Data Encoding:** The conversion of data into signals suitable for transmission.
+
+**4. Bandwidth:** The maximum theoretical data capacity of a network link.
+
+**5. Transmission Modes:** The direction and timing of data flow (simplex, half-duplex, full-duplex).
+
+**6. Error Detection and Correction:** Mechanisms used to identify and fix transmission errors.
+
+**7. Protocols:** Rules that govern how data is transmitted, received, and acknowledged.
+
+**8. Latency:** The time delay in data transfer from source to destination.
+
+**9. Throughput:** The actual rate of successful data delivery over time, accounting for overhead and network conditions.
+
+**10. Goodput:** A subset of throughput that measures only the useful data delivered to the destination.
+
+**11. Jitter:** The variation in packet delay over time, critical for maintaining quality in real-time applications like video or VoIP.
+
+**12 .Packet Loss:** The percentage of data packets that fail to reach their destination, often requiring retransmissions.
+
+<!--- _Difference between Packet and Circuit Switching [here]_ --->
