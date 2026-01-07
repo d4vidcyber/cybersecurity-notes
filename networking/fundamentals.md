@@ -103,9 +103,9 @@ Network communication is the process by which devices exchange data using define
 
 ### Components of Network Communication
 
-1. Endpoints (Nodes): Computers, phones, printers, servers that send or receive data.
+**1. Endpoints (Nodes):** Computers, phones, printers, servers that send or receive data.
 
-2. Networking Devices: Equipment that forwards, filters, or manages data.
+**2. Networking Devices:** Equipment that forwards, filters, or manages data.
    - **Switch:**  Connects devices within a local network `LAN` and forwards data based on Media Access COntrol `MAC` addresses.
      > Example: Connecting multiple computers in an office network.
 
@@ -121,7 +121,7 @@ Network communication is the process by which devices exchange data using define
    - **Firewall:** Monitors and controls incoming and outgoing network traffic based on security rules.
      > Example: Blocking unauthorized access to a corporate network.
 
-3. Transmission Media: These are the paths thorugh which data travels from a sender to a reciever. It is classified into two main types:
+**3. Transmission Media:** These are the paths thorugh which data travels from a sender to a reciever. It is classified into two main types:
   - Guided Media (Wired): Data travels through a  physical medium.
     > Examples: Ethernet and Fiber-optic cables
 
@@ -130,7 +130,7 @@ Network communication is the process by which devices exchange data using define
 
   > While wireless media are more flexible and mobile than wired media, they are more susceptible to interference and eavesdropping.
 
-4. Protocols: These are rules governing communication ensuring devices speak the same language. There are classified based on based on fucntion and layer, below are the classes of protocols based on their layers:
+**4. Protocols:** These are rules governing communication ensuring devices speak the same language. There are classified based on based on fucntion and layer, below are the classes of protocols based on their layers:
 
   **a. Application Layer Protocols:** Enables communication between applications and users.
     - HyperText Transfer Protocol and Secure `HTTP / HTTPS`: Communication between web browsers and websites.
@@ -145,7 +145,7 @@ Network communication is the process by which devices exchange data using define
     - Internet Protocol `IP`: Logical addressing and packet routing
     - Internet Control Message Protocol `ICMP`: Error reporting and diagnostics
 
-5. Addressing: Addressing identifies devices and services on a network so data reaches the correct destination. It is classified below:
+**5. Addressing:** Addressing identifies devices and services on a network so data reaches the correct destination. It is classified below:
 
   a. Physical Addressing:
     - MAC Address: Unique hardware identifier at Layer 2
@@ -157,7 +157,7 @@ Network communication is the process by which devices exchange data using define
     -Port Numbers: Identify specific services on a device
       > Example: HTTP (80), HTTPS (443)
 
-6. Performance Metrics: Performance metrics are measurable values used to evaluate the efficiency, reliability, and quality of network communication. They are critical for assessing normal behavior and identifying anomalies. They include:
+**6. Performance Metrics:** Performance metrics are measurable values used to evaluate the efficiency, reliability, and quality of network communication. They are critical for assessing normal behavior and identifying anomalies. They include:
    | **Metric** | **Common Units** |
    |:----:|:----:|
    | **Bandwdith** | bits per second `bps`, and multiples `Kbps, Mbps, Gbps` |
