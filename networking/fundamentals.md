@@ -220,11 +220,17 @@ Network communication is the process by which devices exchange data using define
       > Example: HTTP (80), HTTPS (443)
 
 6. Performance Metrics: Performance metrics are measurable values used to evaluate the efficiency, reliability, and quality of network communication. They are critical for assessing normal behavior and identifying anomalies. They include:
-   - Bandwdith
-   - Thhroughput
-   - Goodpput
-   - Latency
-   - Jitter
-   - Packet Loss
+   | **Metric** | **Common Units** |
+   |:----:|:----:|
+   | **Bandwdith** | bits per second `bps`, and multiples `Kbps, Mbps, Gbps` |
+   | **Throughput** | bits per second `bps`, and multiples `Kbps, Mbps, Gbps` |
+   | **Goodput** | bits per second `bps`, and multiples `Kbps, Mbps, Gbps` |
+   | **Latency** | milliseconds `ms`. |
+   | **Jitter** | milliseconds `ms`. |
+   | **Packet Loss** | Percentage `%` or a fraction. |
+   
+   [Click here for more Performance metrics and their descriptions.](#key-concepts-of-data-transmission)
+   <!---- Add a link to reference their definition in the 'Key concept of data transmission' ---->
+   
 
 _Difference between Packet and Circuit Switching [here]_
