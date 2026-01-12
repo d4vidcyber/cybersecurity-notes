@@ -1,3 +1,5 @@
 # Layer 1: Physical Link
 
-The Physical Layer is responsible for the transmission of raw bits (0s and 1s) over a physical medium. It defines the hardware-related aspects of communication, including how data is physically sent and received.
+## Introduction
+
+OSI Layer 1, known as the Physical Layer, is the lowest layer of the OSI model. It provides the foundation for network communication by defining how raw binary data (1s and 0s) is physically transmitted between devices. Without this layer, no higher-layer communication is possible
