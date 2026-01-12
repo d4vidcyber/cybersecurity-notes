@@ -37,3 +37,27 @@ At Layer 1, data is transmitted as signals that represent binary digits.
   - Noise and attenuation can distort signals
 
 > Layer 1 defines how a bit is represented, not what the bit means.
+
+## Transmission Media
+
+Transmission media refers to the path through which signals travel. These are classified into two main types:
+
+**Guided Media (Wired)**
+<!-- Add detailed example and def-->
+
+  - **Twisted Pair (UTP/STP):** Common in Ethernet networks, cost-effective, limited distance
+
+  - **Coaxial Cable:** Better shielding, used in cable broadband
+
+  - **Fiber Optic:** Uses light, high speed, long distance, immune to electromagnetic interference
+
+**Unguided Media (Wireless)**
+<!-- Add detailed example-->
+
+  - **Radio Waves:** Used in Wi-Fi and Bluetooth
+
+  - **Microwaves:** Used in satellite and long-distance wireless links
+
+  - **Infrared:** Short-range, line-of-sight communication
+
+> Each medium has trade-offs in speed, distance, cost, and resistance to interference.
