@@ -43,8 +43,10 @@ At Layer 1, data is transmitted as signals that represent binary digits.
 Transmission media refers to the path through which signals travel. These are classified into two main types:
 
 **Guided Media (Wired)**
-<!-- Add detailed example and def-->
 
+They use physical cables to direct data signals along a specific, tangible path, providing controlled and reliable communication for networks and telecommunications.
+
+The main types of Guided media are:
   - **Twisted Pair (UTP/STP):** Common in Ethernet networks, cost-effective, limited distance
 
   - **Coaxial Cable:** Better shielding, used in cable broadband
