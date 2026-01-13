@@ -54,7 +54,8 @@ The main types of Guided media are:
   - **Fiber Optic:** Uses light, high speed, long distance, immune to electromagnetic interference
 
 **Unguided Media (Wireless)**
-<!-- Add detailed example-->
+
+
 
   - **Radio Waves:** Used in Wi-Fi and Bluetooth
 
