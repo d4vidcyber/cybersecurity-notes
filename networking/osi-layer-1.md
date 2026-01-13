@@ -67,3 +67,8 @@ The main types of Unguided media are:
   - **Infrared:** Short-range, line-of-sight communication
 
 > Each medium has trade-offs in speed, distance, cost, and resistance to interference.
+
+### Difference between Guided and Unguided media
+
+| **Feature** | **Guided Media**| **Unguided Media**|
+|:--:|:-|:-|
