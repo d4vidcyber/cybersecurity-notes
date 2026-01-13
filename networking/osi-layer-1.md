@@ -47,6 +47,7 @@ Transmission media refers to the path through which signals travel. These are cl
 They use physical cables to direct data signals along a specific, tangible path, providing controlled and reliable communication for networks and telecommunications.
 
 The main types of Guided media are:
+
   - **Twisted Pair (UTP/STP):** Common in Ethernet networks, cost-effective, limited distance
 
   - **Coaxial Cable:** Better shielding, used in cable broadband
@@ -55,7 +56,9 @@ The main types of Guided media are:
 
 **Unguided Media (Wireless)**
 
+This meadia transmits data as electromagnetic waves through free space (vacuum) without physical cables, offering flexibility and mobility for communication.
 
+The main types of Unguided media are: 
 
   - **Radio Waves:** Used in Wi-Fi and Bluetooth
 
