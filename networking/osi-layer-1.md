@@ -61,6 +61,7 @@ The main types of Guided media are:
 **Unguided Media (Wireless)**
 
 This meadia transmits data as electromagnetic waves through free space (vacuum) without physical cables, offering flexibility and mobility for communication.
+<!- add explanation, how it has to do with electricity->
 
 The main types of Unguided media are: 
 
@@ -76,10 +77,10 @@ The main types of Unguided media are:
 
 | **Feature** | **Guided Media**| **Unguided Media**|
 |:--:|:-|:-|
-| **Path** |  |  |
-| **Signal** |  |  |
-| **Security** |  |  |
-| **Interference** |  |  |
-| **Range** |  |  |
-| **Speed** |  |  |
-| **Bandwidth** |  |  |
+| **Path** | Physical cabels | Air or Vaccum |
+| **Signal** | In form of electric signals | In form of electromagnetic waves |
+| **Security** | Higher security | Lower security |
+| **Interference** | Less prone to remote interference | More susceptible to interference|
+| **Range** | Limited by the length of cable| Covers large area but attenuates|
+| **Speed** | High speed | Slower speed in comparison to Guided media|
+| **Bandwidth** | Generally higher | Varies due to environmental conditions and other factors|
