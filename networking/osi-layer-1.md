@@ -20,7 +20,11 @@ The Physical Layer’s role is to move bits from one device to another across a 
 
 At Layer 1, data is transmitted as signals that represent binary digits.
 
+<!- add detailed definition / explanation ->
+
 **Signaling types:**
+
+<!- add why there are types ->
 
   - Electrical signals (voltage changes in copper cables)
 
