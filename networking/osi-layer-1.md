@@ -76,10 +76,10 @@ The main types of Unguided media are:
 
 | **Feature** | **Guided Media**| **Unguided Media**|
 |:--:|:-|:-|
-| Path |  |  |
-| Signal |  |  |
-| Security |  |  |
-| Interference |  |  |
-| Range |  |  |
-| Speed |  |  |
-| Band|  |  |
+| **Path** |  |  |
+| **Signal** |  |  |
+| **Security** |  |  |
+| **Interference** |  |  |
+| **Range** |  |  |
+| **Speed** |  |  |
+| **Bandwidth** |  |  |
