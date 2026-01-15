@@ -115,3 +115,16 @@ Throughput: Actual achieved data rate
 
 Higher bandwidth allows more bits to be transmitted per second, but real-world factors like noise and distance affect performance.
 
+## Transmission Modes
+
+Transmission mode defines the direction of data flow between devices.
+
+Types of transmission modes:
+
+Simplex: One-way communication (e.g., keyboard → computer)
+
+Half-Duplex: Two-way, but not simultaneous (e.g., walkie-talkies)
+
+Full-Duplex: Two-way, simultaneous communication (e.g., Ethernet)
+
+The Physical Layer specifies the mode supported by the medium.
