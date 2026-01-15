@@ -89,42 +89,42 @@ The main types of Unguided media are:
 
 Physical interfaces define how devices physically connect to transmission media. They specify connector types, pin layouts, and electrical characteristics.
 
-Common interfaces and connectors:
+**Common interfaces and connectors:**
 
-  RJ-45: Ethernet over twisted pair
+  **RJ-45:** Ethernet over twisted pair
 
-  SC, LC, ST: Fiber-optic connectors
+  **SC, LC, ST:** Fiber-optic connectors
 
-  USB: Short-range device communication
+  **USB:** Short-range device communication
 
-  Antenna interfaces: Wireless transmission
+  **Antenna interfaces:** Wireless transmission
 
-These interfaces ensure compatibility between networking devices.
+> These interfaces ensure compatibility between networking devices.
 
 ## Data Rates and Bandwidth
 
 The Physical Layer defines the data rate, which is the speed at which bits are transmitted.
 
-Key terms:
+**Key terms:**
 
-Bit rate: Measured in bits per second (bps)
+  **Bit rate:** Measured in bits per second (bps)
 
-Bandwidth: Maximum capacity of the medium
+  **Bandwidth:** Maximum capacity of the medium
 
-Throughput: Actual achieved data rate
+  **Throughput:** Actual achieved data rate
 
-Higher bandwidth allows more bits to be transmitted per second, but real-world factors like noise and distance affect performance.
+> Higher bandwidth allows more bits to be transmitted per second, but real-world factors like noise and distance affect performance.
 
 ## Transmission Modes
 
 Transmission mode defines the direction of data flow between devices.
 
-Types of transmission modes:
+**Types of transmission modes:**
 
-Simplex: One-way communication (e.g., keyboard → computer)
+  **Simplex:** One-way communication (e.g., keyboard → computer)
 
-Half-Duplex: Two-way, but not simultaneous (e.g., walkie-talkies)
+  **Half-Duplex:**  Two-way, but not simultaneous (e.g., walkie-talkies)
 
-Full-Duplex: Two-way, simultaneous communication (e.g., Ethernet)
+  **Full-Duplex:** Two-way, simultaneous communication (e.g., Ethernet)
 
-The Physical Layer specifies the mode supported by the medium.
+> The Physical Layer specifies the mode supported by the medium.
