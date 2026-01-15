@@ -100,3 +100,18 @@ Common interfaces and connectors:
   Antenna interfaces: Wireless transmission
 
 These interfaces ensure compatibility between networking devices.
+
+## Data Rates and Bandwidth
+
+The Physical Layer defines the data rate, which is the speed at which bits are transmitted.
+
+Key terms:
+
+Bit rate: Measured in bits per second (bps)
+
+Bandwidth: Maximum capacity of the medium
+
+Throughput: Actual achieved data rate
+
+Higher bandwidth allows more bits to be transmitted per second, but real-world factors like noise and distance affect performance.
+
