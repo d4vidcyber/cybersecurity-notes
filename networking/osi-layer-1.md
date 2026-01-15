@@ -84,3 +84,19 @@ The main types of Unguided media are:
 | **Range** | Limited by the length of cable| Covers large area but attenuates|
 | **Speed** | High speed | Slower speed in comparison to Guided media|
 | **Bandwidth** | Generally higher | Varies due to environmental conditions and other factors|
+
+## Physical Interfaces and Connectors
+
+Physical interfaces define how devices physically connect to transmission media. They specify connector types, pin layouts, and electrical characteristics.
+
+Common interfaces and connectors:
+
+  RJ-45: Ethernet over twisted pair
+
+  SC, LC, ST: Fiber-optic connectors
+
+  USB: Short-range device communication
+
+  Antenna interfaces: Wireless transmission
+
+These interfaces ensure compatibility between networking devices.
