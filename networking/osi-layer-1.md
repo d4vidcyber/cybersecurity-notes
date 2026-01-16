@@ -20,13 +20,13 @@ The Physical Layer’s role is to move bits from one device to another across a 
 
 At Layer 1, data is transmitted as signals that represent binary digits.
 
-<!- add detailed definition / explanation ->
+<!-- add detailed definition / explanation -->
 
 **Signaling types:**
 <!-Change heading title later->
 Signalling refers to the methods used to transmit data, information, or control instructions between systems, categorized primarily by their physical medium and properties into electrical, optical, and wireless types. 
 
-  <!-Add small nested section for common example of each types of signalling->
+  <!--Add small nested section for common example of each types of signalling-->
   - Electrical signals (voltage changes in copper cables)
 
   - Optical signals (light pulses in fiber optics)
@@ -62,7 +62,7 @@ The main types of Guided media are:
 **Unguided Media (Wireless)**
 
 This meadia transmits data as electromagnetic waves through free space (vacuum) without physical cables, offering flexibility and mobility for communication.
-<!- add explanation, how it has to do with electricity->
+<!-- add explanation, how it has to do with electricity -->
 
 The main types of Unguided media are: 
 
