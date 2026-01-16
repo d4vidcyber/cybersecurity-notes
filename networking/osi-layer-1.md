@@ -23,7 +23,7 @@ At Layer 1, data is transmitted as signals that represent binary digits.
 <!- add detailed definition / explanation ->
 
 **Signaling types:**
-
+<!-Change heading title later->
 Signalling refers to the methods used to transmit data, information, or control instructions between systems, categorized primarily by their physical medium and properties into electrical, optical, and wireless types. 
 
   <!-Add small nested section for common example of each types of signalling->
