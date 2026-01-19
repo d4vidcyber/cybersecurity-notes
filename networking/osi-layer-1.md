@@ -16,7 +16,7 @@ The Physical Layer’s role is to move bits from one device to another across a 
 
 ## Bit Transmission and Signaling
 
-Bit transmission is the process of sending digital information (bits, or 0s and 1s) over a communication channel, using varying electrical signals (like voltage changes) or light pulses.
+Bit transmission is the process of sending digital information (bits, or 0s and 1s) over a communication channel, using varying electrical signals or light pulses.
 
 <!-- add detailed definition / explanation -->
 
