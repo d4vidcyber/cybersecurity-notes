@@ -20,8 +20,6 @@ Bit transmission is the process of sending digital information (bits, or 0s and 
 
 Signalling refers to the methods used to transmit data, information, or control instructions between systems, categorized primarily by their physical medium and properties into electrical, optical, and wireless types.
 
-<!-- add detailed definition / explanation -->
-
 **Signaling types:**
 <!-- Change heading title later -->
 
