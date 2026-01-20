@@ -18,12 +18,13 @@ The Physical Layer’s role is to move bits from one device to another across a 
 
 Bit transmission is the process of sending digital information (bits, or 0s and 1s) over a communication channel, using varying electrical signals or light pulses.
 
+Signalling refers to the methods used to transmit data, information, or control instructions between systems, categorized primarily by their physical medium and properties into electrical, optical, and wireless types.
+
 <!-- add detailed definition / explanation -->
 
 <!-- Adjust positioning if signalling definition-->
 **Signaling types:**
 <!-- Change heading title later -->
-Signalling refers to the methods used to transmit data, information, or control instructions between systems, categorized primarily by their physical medium and properties into electrical, optical, and wireless types. 
 
   <!--Add small nested section for common example of each types of signalling-->
   - Electrical signals (voltage changes in copper cables)
