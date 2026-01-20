@@ -22,7 +22,6 @@ Signalling refers to the methods used to transmit data, information, or control 
 
 <!-- add detailed definition / explanation -->
 
-<!-- Adjust positioning if signalling definition-->
 **Signaling types:**
 <!-- Change heading title later -->
 
