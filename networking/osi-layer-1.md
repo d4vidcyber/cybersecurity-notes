@@ -163,3 +163,21 @@ Common standards bodies:
   - ITU
 
 > These standards ensure interoperability between devices from different vendors.
+
+## Limitations and Responsibilities of Layer 1
+
+The Physical Layer has a strictly defined scope.
+
+Responsibilities:
+
+  - Transmission and reception of bits
+
+  - Signal generation and detection
+
+Limitations:
+
+  - No addressing or routing
+
+  - No framing or packet handling
+
+  - No error detection or correction
