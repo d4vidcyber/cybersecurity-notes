@@ -126,3 +126,15 @@ Transmission mode defines the direction of data flow between devices.
   **Full-Duplex:** Two-way, simultaneous communication (e.g., Ethernet)
 
 > The Physical Layer specifies the mode supported by the medium.
+
+## Physical Layer Devices
+
+Physical layer devices operate exclusively on raw bits and signals. They do not inspect data, frames, or addresses.
+
+Examples of Physical layer devices:
+
+  - Network Interface Card (NIC): Connects a device to the network medium
+
+  - Hub: Broadcasts incoming signals to all ports
+
+  - Repeater: Regenerates and amplifies signals to extend distance
