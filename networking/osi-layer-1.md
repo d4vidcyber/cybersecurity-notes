@@ -139,3 +139,27 @@ Examples of Physical layer devices:
   - Hub: Broadcasts incoming signals to all ports
 
   - Repeater: Regenerates and amplifies signals to extend distance
+
+## Standards and Specifications
+
+The Physical Layer is governed by standards that define how physical communication must occur.
+
+Standards specify:
+
+  - Electrical voltage levels
+
+  - Optical signaling characteristics
+
+  - Connector types and pin configurations
+
+  - Cable categories and distances
+
+Common standards bodies:
+
+  - IEEE
+
+  - ISO
+
+  - ITU
+
+> These standards ensure interoperability between devices from different vendors.
