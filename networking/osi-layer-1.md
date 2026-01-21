@@ -143,7 +143,7 @@ Examples of Physical layer devices:
 ## Standards and Specifications
 
 The Physical Layer is governed by standards that define how physical communication must occur.
-
+<!-- add context and colors to this -->
 Standards specify:
 
   - Electrical voltage levels
@@ -155,7 +155,7 @@ Standards specify:
   - Cable categories and distances
 
 Common standards bodies:
-
+<!-- add context and colors to this -->
   - IEEE
 
   - ISO
@@ -163,7 +163,7 @@ Common standards bodies:
   - ITU
 
 > These standards ensure interoperability between devices from different vendors.
-
+<!-- add context and colors to this -->
 ## Limitations and Responsibilities of Layer 1
 
 The Physical Layer has a strictly defined scope.
