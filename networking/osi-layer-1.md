@@ -134,7 +134,7 @@ Physical layer devices operate exclusively on raw bits and signals. They do not 
 
 Examples of Physical layer devices:
 
-  - Network Interface Card (NIC): Connects a device to the network medium
+  - Network Interface Card `NIC`: Connects a device to the network medium
 
   - Hub: Broadcasts incoming signals to all ports
 
