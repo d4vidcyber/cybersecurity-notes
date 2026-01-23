@@ -51,7 +51,7 @@ They use physical cables to direct data signals along a specific, tangible path,
 
 The main types of Guided media are:
 
-  - **Twisted Pair (UTP/STP):** Common in Ethernet networks, cost-effective, limited distance
+  - **Twisted Pair `UTP/STP`:** Common in Ethernet networks, cost-effective, limited distance
 
   - **Coaxial Cable:** Better shielding, used in cable broadband
 
@@ -90,11 +90,11 @@ Physical interfaces define how devices physically connect to transmission media.
 
 **Common interfaces and connectors:**
 
-  **RJ-45:** Ethernet over twisted pair
+  **`RJ-45`:** Ethernet over twisted pair
 
-  **SC, LC, ST:** Fiber-optic connectors
+  **`SC, LC, ST`:** Fiber-optic connectors
 
-  **USB:** Short-range device communication
+  **`USB`:** Short-range device communication
 
   **Antenna interfaces:** Wireless transmission
 
@@ -156,11 +156,11 @@ Standards specify:
 
 Common standards bodies:
 <!-- add context and colors to this -->
-  - IEEE
+  - `IEEE`
 
-  - ISO
+  - `ISO`
 
-  - ITU
+  - `ITU`
 
 > These standards ensure interoperability between devices from different vendors.
 <!-- add context and colors to this -->
