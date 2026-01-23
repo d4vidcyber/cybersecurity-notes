@@ -8,7 +8,7 @@ Layer 2 also controls how devices access the network medium and detects transmis
 
 The Data Link Layer ensures reliable data transfer between directly connected devices on the same network segment. Its main purpose is to provide a structured and controlled way for devices to exchange data over a shared physical medium.
 
-Key roles include:
+**Key roles include:**
 
   - Converting raw bits from Layer 1 into organized frames
   - Using MAC addresses to identify source and destination devices
