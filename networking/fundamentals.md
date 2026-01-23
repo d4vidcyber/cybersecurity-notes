@@ -63,6 +63,7 @@ Network models describe how network communication is structured and standardized
 **1. Open System Interconnection `OSI` Model:** A conceptual seven-layer model used to understand, design, and troubleshoot network communication. An overview of each `OSI` Layer:
   - **Layer 1 `Physical`:** Transmits raw bits over physical media.
     > Example: Network cables and electrical signals.
+
 [Click here for more...](./osi-layer-1.md)
     
   - **Layer 2 `Data Link`:** Manages physical addressing and error detection.
