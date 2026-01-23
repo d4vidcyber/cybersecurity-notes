@@ -68,6 +68,8 @@ Network models describe how network communication is structured and standardized
     
   - **Layer 2 `Data Link`:** Manages physical addressing and error detection.
     > Example: Ethernet frames using MAC addresses.
+
+[Click here for more...](./osi-layer-2.md)
     
   - **Layer 3 `Network`:** Handles logical addressing and routing.
     > Example: `IP` routing packets across networks.
