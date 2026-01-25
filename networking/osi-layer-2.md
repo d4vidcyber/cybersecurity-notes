@@ -51,4 +51,4 @@ Data Units by Layer:
 
     - Trailer (error-checking information)
 
-    - Framing makes raw transmission structured, reliable, and manageable at the local network level.
+> Framing makes raw transmission structured, reliable, and manageable at the local network level.
