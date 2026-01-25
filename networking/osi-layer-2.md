@@ -20,7 +20,11 @@ The Data Link Layer ensures reliable data transfer between directly connected de
 
 ## Framing and Data Units
 Framing is the process of encapsulating network-layer data into frames for transmission across a local network.
+
 Data Units by Layer:
+
   - Layer 1 → Bits
+
   - Layer 2 → Frames
+
   - Layer 3 → Packets
