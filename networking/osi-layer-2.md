@@ -17,3 +17,10 @@ The Data Link Layer ensures reliable data transfer between directly connected de
   - Acting as a bridge between physical transmission (Layer 1) and logical networking (Layer 3)
 
 > Layer 2 focuses strictly on local delivery, not end-to-end communication.
+
+## Framing and Data Units
+Framing is the process of encapsulating network-layer data into frames for transmission across a local network.
+Data Units by Layer:
+  - Layer 1 → Bits
+  - Layer 2 → Frames
+  - Layer 3 → Packets
