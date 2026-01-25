@@ -47,8 +47,8 @@ Data Units by Layer:
 
   - Header (source and destination MAC addresses)
 
-    - Payload (encapsulated Layer 3 packet)
+  - Payload (encapsulated Layer 3 packet)
 
-    - Trailer (error-checking information)
+  - Trailer (error-checking information)
 
 > Framing makes raw transmission structured, reliable, and manageable at the local network level.
