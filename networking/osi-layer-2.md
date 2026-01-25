@@ -43,9 +43,9 @@ Data Units by Layer:
 
   - Ensures synchronization between sending and receiving devices
 
-  A typical Layer 2 frame contains:
+**A typical Layer 2 frame contains:**
 
-    - Header (source and destination MAC addresses)
+  - Header (source and destination MAC addresses)
 
     - Payload (encapsulated Layer 3 packet)
 
