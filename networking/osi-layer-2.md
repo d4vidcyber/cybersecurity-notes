@@ -32,3 +32,13 @@ Data Units by Layer:
   - Layer 2 → Frames
 
   - Layer 3 → Packets
+
+**Why framing is important:**
+
+  - Defines clear start and end points for data transmission
+
+  - Enables error detection using checksums (e.g., CRC)
+
+  - Allows switches to process and forward data efficiently
+
+  - Ensures synchronization between sending and receiving devices
