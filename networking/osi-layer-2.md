@@ -52,3 +52,7 @@ Data Units by Layer:
   - Trailer (error-checking information)
 
 > Framing makes raw transmission structured, reliable, and manageable at the local network level.
+
+## Media Access Control `MAC` Addressing Basics
+
+`MAC` addressing provides unique identification for devices on a local network. Each network interface is assigned a 48-bit hardware address, typically written in hexadecimal.
