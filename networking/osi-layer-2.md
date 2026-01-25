@@ -42,3 +42,13 @@ Data Units by Layer:
   - Allows switches to process and forward data efficiently
 
   - Ensures synchronization between sending and receiving devices
+
+  A typical Layer 2 frame contains:
+
+    - Header (source and destination MAC addresses)
+
+    - Payload (encapsulated Layer 3 packet)
+
+    - Trailer (error-checking information)
+
+    - Framing makes raw transmission structured, reliable, and manageable at the local network level.
