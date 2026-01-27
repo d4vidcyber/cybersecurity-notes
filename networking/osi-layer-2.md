@@ -70,3 +70,5 @@ Data Units by Layer:
     - Broadcast – one-to-all communication
 
     - Multicast – one-to-many communication
+
+> MAC addressing enables precise local delivery, unlike IP addressing which handles network-to-network communication.
