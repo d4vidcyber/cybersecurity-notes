@@ -60,9 +60,13 @@ Data Units by Layer:
 **Key points:**
 
   - Operates only within the local network segment
+
   - Used by switches to forward frames to the correct device
 
   - Types of MAC addresses:
+
     - Unicast – one-to-one communication
+
     - Broadcast – one-to-all communication
+
     - Multicast – one-to-many communication
