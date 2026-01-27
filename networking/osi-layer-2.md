@@ -56,3 +56,9 @@ Data Units by Layer:
 ## Media Access Control (`MAC`) Addressing Basics
 
 `MAC` addressing provides unique identification for devices on a local network. Each network interface is assigned a 48-bit hardware address, typically written in hexadecimal.
+
+**Key points:**
+
+  - Operates only within the local network segment
+  - Used by switches to forward frames to the correct device
+
