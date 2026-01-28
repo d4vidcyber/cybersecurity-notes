@@ -54,7 +54,7 @@ Data Units by Layer:
 > Framing makes raw transmission structured, reliable, and manageable at the local network level.
 
 ## Media Access Control (`MAC`) Addressing Basics
-
+<!-- include what was learnt from THM about the mac address format (12 4bits digits, having two parts: 6 digits for the production company and 6 digits for the user) -->
 `MAC` addressing provides unique identification for devices on a local network. Each network interface is assigned a 48-bit hardware address, typically written in hexadecimal.
 
 **Key points:**
