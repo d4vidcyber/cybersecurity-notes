@@ -76,16 +76,10 @@ Data Units by Layer:
 ## Unicast, Broadcast, and Multicast
 Layer 2 supports different communication patterns based on destination MAC addresses.
 
-  - **Unicast:**
+  - **Unicast:** Data is sent from one device to a single specific device.
 
-Data is sent from one device to a single specific device.
+  - **Broadcast:** Data is sent to all devices on the local network.
 
-  - **Broadcast:**
-
-Data is sent to all devices on the local network.
-
-  - **Multicast:**
-
-Data is sent to a selected group of devices that have joined a multicast group.
+  - **Multicast:** Data is sent to a selected group of devices that have joined a multicast group.
 
 > These modes determine how frames are distributed across a network and directly impact network efficiency.
