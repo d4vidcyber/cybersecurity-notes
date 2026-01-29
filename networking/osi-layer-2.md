@@ -95,3 +95,5 @@ Logical Link Control provides an interface between Layer 2 and Layer 3. It allow
   - Manages basic flow and error control
 
   - Ensures consistency across different Layer 2 technologies
+
+> LLC abstracts the physical media details, allowing Layer 3 protocols to operate independently of the underlying network type.
