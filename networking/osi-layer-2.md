@@ -87,3 +87,11 @@ Layer 2 supports different communication patterns based on destination MAC addre
 ## Logical Link Control `LLC`
 
 Logical Link Control provides an interface between Layer 2 and Layer 3. It allows multiple network-layer protocols to coexist over the same physical network.
+
+**Key functions:**
+
+  - Identifies the network-layer protocol being carried
+
+  - Manages basic flow and error control
+
+  - Ensures consistency across different Layer 2 technologies
