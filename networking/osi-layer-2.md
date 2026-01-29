@@ -83,3 +83,7 @@ Layer 2 supports different communication patterns based on destination MAC addre
   - **Multicast:** Data is sent to a selected group of devices that have joined a multicast group.
 
 > These modes determine how frames are distributed across a network and directly impact network efficiency.
+
+## Logical Link Control `LLC`
+
+Logical Link Control provides an interface between Layer 2 and Layer 3. It allows multiple network-layer protocols to coexist over the same physical network.
