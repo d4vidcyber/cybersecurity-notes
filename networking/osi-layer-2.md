@@ -112,3 +112,5 @@ Reduces unnecessary traffic compared to hubs.
 **Bridge:** Connects and filters traffic between two network segments.
 Functionally similar to a switch but simpler and less scalable.
 These devices enable efficient and structured local communication.
+
+> These devices enable efficient and structured local communication.
