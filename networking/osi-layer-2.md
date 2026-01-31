@@ -106,9 +106,11 @@ Some of the primary hardware devices that operate at Layer 2 include:
 Network Interface Card (NIC)
 Provides the physical and data link connection between a device and the network.
 Each NIC has a unique MAC address.
+
 Switch
 Forwards frames intelligently by learning MAC addresses and building a MAC (CAM) table.
 Reduces unnecessary traffic compared to hubs.
+
 Bridge
 Connects and filters traffic between two network segments.
 Functionally similar to a switch but simpler and less scalable.
