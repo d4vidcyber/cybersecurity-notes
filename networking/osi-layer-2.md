@@ -103,3 +103,13 @@ Logical Link Control provides an interface between Layer 2 and Layer 3. It allow
 Layer 2 hardware devices operate using MAC addresses to forward frames within a local network. 
 Some of the primary hardware devices that operate at Layer 2 include: 
 
+Network Interface Card (NIC)
+Provides the physical and data link connection between a device and the network.
+Each NIC has a unique MAC address.
+Switch
+Forwards frames intelligently by learning MAC addresses and building a MAC (CAM) table.
+Reduces unnecessary traffic compared to hubs.
+Bridge
+Connects and filters traffic between two network segments.
+Functionally similar to a switch but simpler and less scalable.
+These devices enable efficient and structured local communication.
