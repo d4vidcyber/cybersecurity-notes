@@ -97,3 +97,9 @@ Logical Link Control provides an interface between Layer 2 and Layer 3. It allow
   - Ensures consistency across different Layer 2 technologies
 
 > LLC abstracts the physical media details, allowing Layer 3 protocols to operate independently of the underlying network type.
+
+## Layer 2 Hardware Devices (NICs, Switches, Bridges)
+
+Layer 2 hardware devices operate using MAC addresses to forward frames within a local network. 
+Some of the primary hardware devices that operate at Layer 2 include: 
+
