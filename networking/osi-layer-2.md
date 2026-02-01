@@ -121,9 +121,13 @@ Layer 2 behavior is defined by standardized protocols to ensure interoperability
 
 **Common examples:**
   - Ethernet (IEEE 802.3) – Wired local networking
+
   - Wi-Fi (IEEE 802.11) – Wireless local networking
+
   - VLAN (IEEE 802.1Q) – Logical network segmentation
+
   - STP (Spanning Tree Protocol) – Prevents switching loops
+
   - ARP – Resolves IP addresses to MAC addresses (Layer 2–3 interaction)
 
 > These protocols define how frames are formatted, transmitted, and managed.
