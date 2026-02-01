@@ -114,3 +114,7 @@ Functionally similar to a switch but simpler and less scalable.
 These devices enable efficient and structured local communication.
 
 > These devices enable efficient and structured local communication.
+
+## Layer 2 Protocols and Standards
+
+Layer 2 behavior is defined by standardized protocols to ensure interoperability.
