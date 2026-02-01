@@ -119,7 +119,7 @@ These devices enable efficient and structured local communication.
 
 Layer 2 behavior is defined by standardized protocols to ensure interoperability.
 
-Common examples:
+**Common examples:**
 Ethernet (IEEE 802.3) – Wired local networking
 Wi-Fi (IEEE 802.11) – Wireless local networking
 VLAN (IEEE 802.1Q) – Logical network segmentation
