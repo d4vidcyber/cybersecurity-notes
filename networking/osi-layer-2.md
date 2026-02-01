@@ -125,3 +125,5 @@ Wi-Fi (IEEE 802.11) – Wireless local networking
 VLAN (IEEE 802.1Q) – Logical network segmentation
 STP (Spanning Tree Protocol) – Prevents switching loops
 ARP – Resolves IP addresses to MAC addresses (Layer 2–3 interaction)
+
+> These protocols define how frames are formatted, transmitted, and managed.
