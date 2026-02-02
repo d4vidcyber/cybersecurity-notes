@@ -131,3 +131,7 @@ Layer 2 behavior is defined by standardized protocols to ensure interoperability
   - ARP – Resolves IP addresses to MAC addresses (Layer 2–3 interaction)
 
 > These protocols define how frames are formatted, transmitted, and managed.
+
+## How Layer 2 Interacts with Layer 1 and Layer 3
+
+Layer 2 sits between the Physical Layer and the Network Layer, acting as a translator.
