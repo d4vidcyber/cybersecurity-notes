@@ -143,3 +143,5 @@ Receives raw bits and organizes them into frames.
 **To Layer 3:**
 
 Delivers error-checked data and identifies the appropriate protocol.
+
+> Layer 2 ensures that data moves reliably and correctly across a local link, allowing higher layers to focus on routing and end-to-end communication.
