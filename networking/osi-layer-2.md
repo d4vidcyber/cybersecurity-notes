@@ -135,3 +135,8 @@ Layer 2 behavior is defined by standardized protocols to ensure interoperability
 ## How Layer 2 Interacts with Layer 1 and Layer 3
 
 Layer 2 sits between the Physical Layer and the Network Layer, acting as a translator.
+
+**From Layer 1:**
+Receives raw bits and organizes them into frames.
+**To Layer 3:**
+Delivers error-checked data and identifies the appropriate protocol.
