@@ -5,3 +5,5 @@ The Network Layer is responsible for moving data across different networks. Unli
 > It decides where data should go next, not how it is physically transmitted.
 
 ## Role and Purpose of Layer 3
+
+The primary role of Layer 3 is to ensure successful delivery of data from source to destination across multiple networks.
