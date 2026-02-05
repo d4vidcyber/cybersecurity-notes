@@ -20,3 +20,5 @@ The primary role of Layer 3 is to ensure successful delivery of data from source
 ## Logical Addressing `IP` Addressing
 
 Logical addressing allows devices to be identified across different networks using IP addresses.
+
+**Key points:**
