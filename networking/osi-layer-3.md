@@ -16,3 +16,5 @@ The primary role of Layer 3 is to ensure successful delivery of data from source
   Managing network-to-network communication
   Supporting scalability of large networks (e.g., the internet)
 > Layer 3 focuses on path selection and forwarding, not local delivery
+
+## Logical Addressing `IP` Addressing
