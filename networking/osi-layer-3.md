@@ -9,16 +9,15 @@ The Network Layer is responsible for moving data across different networks. Unli
 The primary role of Layer 3 is to ensure successful delivery of data from source to destination across multiple networks.
 
 **Key purposes include:**
+  - Providing logical addressing independent of hardware
 
-    - Providing logical addressing independent of hardware
+  - Determining the best path for data to travel
 
-    - Determining the best path for data to travel
+  - Forwarding packets between networks
 
-    - Forwarding packets between networks
+  - Managing network-to-network communication
 
-    - Managing network-to-network communication
-
-    - Supporting scalability of large networks (e.g., the internet)
+  - Supporting scalability of large networks (e.g., the internet)
 
 > Layer 3 focuses on path selection and forwarding, not local delivery
 
