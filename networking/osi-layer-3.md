@@ -24,7 +24,11 @@ Logical addressing allows devices to be identified across different networks usi
 **Key points:**
 
   - IP addresses are software-assigned, unlike MAC addresses
+
   - They identify both the network and the host
+
   - Two main versions:
+
     - IPv4 – 32-bit address (e.g., 192.168.1.1)
+
     - IPv6 – 128-bit address (e.g., 2001:db8::1)
