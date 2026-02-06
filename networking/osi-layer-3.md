@@ -37,3 +37,5 @@ Logical addressing allows devices to be identified across different networks usi
     - IPv4 – 32-bit address (e.g., 192.168.1.1)
 
     - IPv6 – 128-bit address (e.g., 2001:db8::1)
+
+## IPv4 and IPv6
