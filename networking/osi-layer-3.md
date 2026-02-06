@@ -52,7 +52,7 @@ IP exists in two main versions to support logical addressing at Layer 3.
 
   - Commonly used with NAT
 
-**IPv6**
+**IPv6:**
 
   - 128-bit address space
 
