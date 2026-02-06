@@ -47,3 +47,10 @@ IP exists in two main versions to support logical addressing at Layer 3.
   - Written in dotted-decimal format (e.g., 192.168.1.1)
   - Limited address availability
   - Commonly used with NAT
+**IPv6**
+  - 128-bit address space
+  - Written in hexadecimal (e.g., 2001:db8::1)
+  - Vast address capacity
+  - Designed to replace IPv4
+  - Supports simpler header structure and better scalability
+> Both versions serve the same role: identifying devices and  networks for routing.
