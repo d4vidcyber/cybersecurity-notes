@@ -42,3 +42,8 @@ Logical addressing allows devices to be identified across different networks usi
 
 IP exists in two main versions to support logical addressing at Layer 3.
 <!-- Add context from thm notes -->
+**IPv4**
+  - 32-bit address space
+  - Written in dotted-decimal format (e.g., 192.168.1.1)
+  - Limited address availability
+  - Commonly used with NAT
