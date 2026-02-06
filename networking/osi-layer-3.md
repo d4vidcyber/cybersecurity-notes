@@ -42,7 +42,7 @@ Logical addressing allows devices to be identified across different networks usi
 
 IP exists in two main versions to support logical addressing at Layer 3.
 <!-- Add context from thm notes -->
-**IPv4**
+**IPv4:**
 
   - 32-bit address space
 
