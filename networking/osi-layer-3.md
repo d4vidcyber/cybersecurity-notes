@@ -39,3 +39,6 @@ Logical addressing allows devices to be identified across different networks usi
     - IPv6 – 128-bit address (e.g., 2001:db8::1)
 
 ## IPv4 and IPv6
+
+IP exists in two main versions to support logical addressing at Layer 3.
+<!-- Add context from thm notes -->
