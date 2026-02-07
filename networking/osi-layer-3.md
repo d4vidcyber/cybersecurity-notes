@@ -72,11 +72,11 @@ At Layer 3, data is handled as packets.
 
 **Data units by layer:**
 
-    Layer 2 → Frames
+  Layer 2 → Frames
 
-    Layer 3 → Packets
+  Layer 3 → Packets
 
-    Layer 4 → Segments
+  Layer 4 → Segments
 
 **Packet characteristics:**
 
