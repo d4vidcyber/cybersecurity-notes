@@ -80,3 +80,5 @@ At Layer 3, data is handled as packets.
   - Encapsulates Layer 4 data
   - Can be fragmented to fit different network sizes
   - Independent of the physical transmission medium
+
+> Packets allow data to move across multiple networks.
