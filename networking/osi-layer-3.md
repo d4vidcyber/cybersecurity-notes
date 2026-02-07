@@ -74,3 +74,5 @@ At Layer 3, data is handled as packets.
   Layer 2 → Frames
   Layer 3 → Packets
   Layer 4 → Segments
+
+**Packet characteristics:**
