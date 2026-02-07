@@ -65,3 +65,6 @@ IP exists in two main versions to support logical addressing at Layer 3.
   - Supports simpler header structure and better scalability
 
 > Both versions serve the same role: identifying devices and  networks for routing.
+
+## Packets and Data Units
+
