@@ -71,8 +71,11 @@ IP exists in two main versions to support logical addressing at Layer 3.
 At Layer 3, data is handled as packets.
 
 **Data units by layer:**
+
   Layer 2 → Frames
+
   Layer 3 → Packets
+
   Layer 4 → Segments
 
 **Packet characteristics:**
