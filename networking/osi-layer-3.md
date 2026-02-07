@@ -79,9 +79,13 @@ At Layer 3, data is handled as packets.
   Layer 4 → Segments
 
 **Packet characteristics:**
+
   - Contains source and destination IP addresses
+
   - Encapsulates Layer 4 data
+
   - Can be fragmented to fit different network sizes
+
   - Independent of the physical transmission medium
 
 > Packets allow data to move across multiple networks.
