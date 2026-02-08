@@ -91,3 +91,5 @@ At Layer 3, data is handled as packets.
 > Packets allow data to move across multiple networks.
 
 ## Routing Concepts
+
+Routing is the process of selecting the best path for packets to travel from source to destination
