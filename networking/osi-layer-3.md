@@ -102,10 +102,10 @@ Routing is the process of selecting the best path for packets to travel from sou
 
   - Path selection is influenced by metrics such as:
 
-Hop count
+    - Hop count
 
-Bandwidth
+    - Bandwidth
 
-Delay
+    - Delay
 
 > Routing enables scalable communication beyond local networks.
