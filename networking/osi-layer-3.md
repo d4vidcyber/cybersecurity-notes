@@ -101,3 +101,5 @@ Path selection is influenced by metrics such as:
 Hop count
 Bandwidth
 Delay
+
+> Routing enables scalable communication beyond local networks.
