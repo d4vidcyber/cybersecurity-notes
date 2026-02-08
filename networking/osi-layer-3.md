@@ -96,11 +96,11 @@ Routing is the process of selecting the best path for packets to travel from sou
 
 **Key concepts:**
 
-Routers make forwarding decisions based on destination IP address
+  - Routers make forwarding decisions based on destination IP address
 
-Multiple paths may exist between networks
+  - Multiple paths may exist between networks
 
-Path selection is influenced by metrics such as:
+  - Path selection is influenced by metrics such as:
 
 Hop count
 
