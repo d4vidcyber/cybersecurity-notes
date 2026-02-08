@@ -101,8 +101,11 @@ Routers make forwarding decisions based on destination IP address
 Multiple paths may exist between networks
 
 Path selection is influenced by metrics such as:
+
 Hop count
+
 Bandwidth
+
 Delay
 
 > Routing enables scalable communication beyond local networks.
