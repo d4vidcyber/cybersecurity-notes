@@ -89,3 +89,5 @@ At Layer 3, data is handled as packets.
   - Independent of the physical transmission medium
 
 > Packets allow data to move across multiple networks.
+
+## Routing Concepts
