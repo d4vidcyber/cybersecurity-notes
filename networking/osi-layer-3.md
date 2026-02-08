@@ -95,3 +95,9 @@ At Layer 3, data is handled as packets.
 Routing is the process of selecting the best path for packets to travel from source to destination
 
 **Key concepts:**
+Routers make forwarding decisions based on destination IP address
+Multiple paths may exist between networks
+Path selection is influenced by metrics such as:
+Hop count
+Bandwidth
+Delay
