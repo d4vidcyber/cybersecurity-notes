@@ -126,12 +126,12 @@ Routing table contains:
 
 Common routing metrics:
 
-Hop count
+  - Hop count
 
-Bandwidth
+  - Bandwidth
 
-Delay
+  - Delay
 
-Reliability
+  - Reliability
 
 > Lower metric values typically indicate preferred paths.
