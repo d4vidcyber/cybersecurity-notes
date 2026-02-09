@@ -119,9 +119,11 @@ Destination network
 Next-hop address
 Exit interface
 Metric (cost)
+
 Common routing metrics:
 Hop count
 Bandwidth
 Delay
 Reliability
+
 > Lower metric values typically indicate preferred paths.
