@@ -116,13 +116,13 @@ Routers use routing tables to decide where to forward packets.
 
 Routing table contains:
 
-Destination network
+  - Destination network
 
-Next-hop address
+  - Next-hop address
 
-Exit interface
+  - Exit interface
 
-Metric (cost)
+  - Metric (cost)
 
 Common routing metrics:
 
