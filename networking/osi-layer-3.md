@@ -111,3 +111,4 @@ Routing is the process of selecting the best path for packets to travel from sou
 > Routing enables scalable communication beyond local networks.
 
 ## Routing Tables and Metrics
+Routers use routing tables to decide where to forward packets.
