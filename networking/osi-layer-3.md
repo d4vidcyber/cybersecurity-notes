@@ -115,9 +115,13 @@ Routing is the process of selecting the best path for packets to travel from sou
 Routers use routing tables to decide where to forward packets.
 
 Routing table contains:
+
 Destination network
+
 Next-hop address
+
 Exit interface
+
 Metric (cost)
 
 Common routing metrics:
