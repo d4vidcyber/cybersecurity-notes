@@ -122,3 +122,4 @@ Hop count
 Bandwidth
 Delay
 Reliability
+Lower metric values typically indicate preferred paths.
