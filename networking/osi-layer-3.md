@@ -109,3 +109,5 @@ Routing is the process of selecting the best path for packets to travel from sou
     - Delay
 
 > Routing enables scalable communication beyond local networks.
+
+## Routing Tables and Metrics
