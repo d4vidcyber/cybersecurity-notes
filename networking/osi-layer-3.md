@@ -140,7 +140,7 @@ Common routing metrics:
 
 Layer 3 devices forward packets between different networks using IP addresses.
 
-Router
+**Router**
 
 Core Layer 3 device
 
@@ -150,7 +150,7 @@ Maintains routing tables
 
 Performs packet forwarding
 
-Layer 3 Switch
+**Layer 3 Switch**
 
 Combines switching and routing
 
