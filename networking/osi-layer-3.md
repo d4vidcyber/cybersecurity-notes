@@ -137,3 +137,5 @@ Common routing metrics:
 > Lower metric values typically indicate preferred paths.
 
 ## Routers and Layer 3 Devices
+
+Layer 3 devices forward packets between different networks using IP addresses.
