@@ -135,3 +135,5 @@ Common routing metrics:
   - Reliability
 
 > Lower metric values typically indicate preferred paths.
+
+## Routers and Layer 3 Devices
