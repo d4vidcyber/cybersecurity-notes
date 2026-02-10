@@ -146,3 +146,5 @@ Core Layer 3 device
 Connects multiple networks
 Maintains routing tables
 Performs packet forwarding
+
+Layer 3 Switch
