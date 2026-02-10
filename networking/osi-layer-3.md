@@ -148,3 +148,7 @@ Maintains routing tables
 Performs packet forwarding
 
 Layer 3 Switch
+
+Combines switching and routing
+Faster routing within LANs
+Common in enterprise networks
