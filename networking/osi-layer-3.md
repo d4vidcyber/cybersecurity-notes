@@ -142,13 +142,13 @@ Layer 3 devices forward packets between different networks using IP addresses.
 
 **Router**
 
-Core Layer 3 device
+  - Core Layer 3 device
 
-Connects multiple networks
+  - Connects multiple networks
 
-Maintains routing tables
+  - Maintains routing tables
 
-Performs packet forwarding
+  - Performs packet forwarding
 
 **Layer 3 Switch**
 
