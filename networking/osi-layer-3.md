@@ -141,3 +141,8 @@ Common routing metrics:
 Layer 3 devices forward packets between different networks using IP addresses.
 
 Router
+
+Core Layer 3 device
+Connects multiple networks
+Maintains routing tables
+Performs packet forwarding
