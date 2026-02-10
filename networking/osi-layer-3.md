@@ -152,10 +152,10 @@ Layer 3 devices forward packets between different networks using IP addresses.
 
 **Layer 3 Switch**
 
-Combines switching and routing
+  - Combines switching and routing
 
-Faster routing within LANs
+  - Faster routing within LANs
 
-Common in enterprise networks
+  - Common in enterprise networks
 
 > These devices enable inter-network communication.
