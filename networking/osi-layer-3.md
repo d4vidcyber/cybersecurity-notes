@@ -152,3 +152,5 @@ Layer 3 Switch
 Combines switching and routing
 Faster routing within LANs
 Common in enterprise networks
+
+> These devices enable inter-network communication.
