@@ -162,3 +162,6 @@ Layer 3 devices forward packets between different networks using IP addresses.
 
 ## Common Layer 3 Protocols
 Layer 3 relies on protocols to support addressing and routing.
+
+Key protocols include:
+
