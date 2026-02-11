@@ -161,4 +161,4 @@ Layer 3 devices forward packets between different networks using IP addresses.
 > These devices enable inter-network communication.
 
 ## Common Layer 3 Protocols
-
+Layer 3 relies on protocols to support addressing and routing.
