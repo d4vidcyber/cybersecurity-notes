@@ -159,3 +159,6 @@ Layer 3 devices forward packets between different networks using IP addresses.
   - Common in enterprise networks
 
 > These devices enable inter-network communication.
+
+## Common Layer 3 Protocols
+
