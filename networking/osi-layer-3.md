@@ -169,3 +169,7 @@ IP (IPv4, IPv6) – Logical addressing and packet delivery
 ICMP – Error reporting and diagnostics
 IPsec – Secure IP communication
 Routing protocols (support Layer 3 operation):
+RIP
+OSPF
+EIGRP
+BGP
