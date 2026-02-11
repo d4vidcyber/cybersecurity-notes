@@ -165,11 +165,11 @@ Layer 3 relies on protocols to support addressing and routing.
 
 **Key protocols include:**
 
-  - IP (IPv4, IPv6) – Logical addressing and packet delivery
+  - `IP (IPv4, IPv6)` – Logical addressing and packet delivery
 
-  - ICMP – Error reporting and diagnostics
+  - `ICMP` – Error reporting and diagnostics
 
-  - IPsec – Secure IP communication
+  - `IPsec` – Secure IP communication
 
   - Routing protocols (support Layer 3 operation):
 
