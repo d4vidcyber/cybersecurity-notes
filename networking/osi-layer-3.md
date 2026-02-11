@@ -169,8 +169,8 @@ Key protocols include:
   - ICMP – Error reporting and diagnostics
   - IPsec – Secure IP communication
   - Routing protocols (support Layer 3 operation):
-RIP
-OSPF
-EIGRP
-BGP
+    - RIP
+    - OSPF
+    - EIGRP
+    - BGP
 > These protocols ensure proper routing and network reachability.
