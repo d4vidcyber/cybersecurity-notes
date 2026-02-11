@@ -173,3 +173,4 @@ RIP
 OSPF
 EIGRP
 BGP
+> These protocols ensure proper routing and network reachability.
