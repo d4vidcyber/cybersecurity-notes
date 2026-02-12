@@ -190,3 +190,6 @@ Layer 3 acts as a bridge between local delivery and end-to-end communication.
 From Layer 2:
 Receives frames
 Extracts packets
+
+To Layer 4:
+Delivers packets to the correct transport protocol
