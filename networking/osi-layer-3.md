@@ -186,3 +186,7 @@ Layer 3 relies on protocols to support addressing and routing.
 ## Relationship Between Layer 2 and Layer 4
 
 Layer 3 acts as a bridge between local delivery and end-to-end communication.
+
+From Layer 2:
+Receives frames
+Extracts packets
