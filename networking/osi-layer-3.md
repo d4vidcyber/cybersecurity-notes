@@ -194,4 +194,4 @@ Extracts packets
 **To Layer 4:**
 Delivers packets to the correct transport protocol
 
-Layer 3 handles where data goes, Layer 4 handles how data is delivered.
+> Layer 3 handles where data goes, Layer 4 handles how data is delivered.
