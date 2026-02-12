@@ -182,3 +182,5 @@ Layer 3 relies on protocols to support addressing and routing.
     - BGP
 
 > These protocols ensure proper routing and network reachability.
+
+## Relationship Between Layer 2 and Layer 4
