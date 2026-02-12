@@ -184,3 +184,5 @@ Layer 3 relies on protocols to support addressing and routing.
 > These protocols ensure proper routing and network reachability.
 
 ## Relationship Between Layer 2 and Layer 4
+
+Layer 3 acts as a bridge between local delivery and end-to-end communication.
