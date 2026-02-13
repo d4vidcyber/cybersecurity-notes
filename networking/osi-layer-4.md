@@ -4,3 +4,5 @@ The Transport Layer is responsible for end-to-end communication between applicat
 While Layer 3 ensures packets reach the correct device, Layer 4 ensures data reaches the correct application process.
 
 Role and Purposes
+
+Layer 4 provides:
