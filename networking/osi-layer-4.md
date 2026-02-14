@@ -6,3 +6,10 @@ While Layer 3 ensures packets reach the correct device, Layer 4 ensures data rea
 **Role and Purposes**
 
 Layer 4 provides:
+
+Process-to-process delivery
+Segmentation and reassembly
+Port addressing
+Flow control
+Error control
+Connection management
