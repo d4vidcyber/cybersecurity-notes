@@ -13,3 +13,5 @@ Port addressing
 Flow control
 Error control
 Connection management
+
+It ensures data is delivered reliably or efficiently, depending on the protocol used.
