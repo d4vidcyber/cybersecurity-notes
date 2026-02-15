@@ -33,7 +33,7 @@ Layer 4 provides:
 
 Ports identify specific applications running on a device.
 
-Port ranges:
+**Port ranges:**
 
   - 0–1023 → Well-known ports
 
@@ -41,7 +41,7 @@ Port ranges:
 
   - 49152–65535 → Dynamic/private ports
 
-Example:
+**Example:**
 
   - HTTP → Port 80
 
