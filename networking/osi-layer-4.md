@@ -30,3 +30,4 @@ Layer 4 provides:
 > Encapsulation flow: Application → Segment → Packet → Frame → Bits
 
 ## Port Addressing
+Ports identify specific applications running on a device.
