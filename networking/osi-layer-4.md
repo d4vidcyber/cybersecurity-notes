@@ -27,3 +27,5 @@ Layer 4 provides:
   - Sometimes referred to as Datagram (UDP)
 
 > Encapsulation flow: Application → Segment → Packet → Frame → Bits
+
+## Port Addressing
