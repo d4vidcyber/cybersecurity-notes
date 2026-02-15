@@ -24,6 +24,7 @@ Layer 4 provides:
 ## Data Unit
 
   - Layer 4 data unit = Segment (TCP)
+
   - Sometimes referred to as Datagram (UDP)
 
 > Encapsulation flow: Application → Segment → Packet → Frame → Bits
