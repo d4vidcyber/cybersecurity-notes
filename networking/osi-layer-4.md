@@ -36,4 +36,8 @@ Port ranges:
 0–1023 → Well-known ports
 1024–49151 → Registered ports
 49152–65535 → Dynamic/private ports
+Example:
+HTTP → Port 80
+HTTPS → Port 443
+FTP → Port 21
 
