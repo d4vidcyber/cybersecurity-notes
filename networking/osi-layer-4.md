@@ -41,3 +41,5 @@ HTTP → Port 80
 HTTPS → Port 443
 FTP → Port 21
 
+> IP address identifies the device.
+Port number identifies the application.
