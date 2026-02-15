@@ -22,3 +22,6 @@ Layer 4 provides:
 > It ensures data is delivered reliably or efficiently, depending on the protocol used.
 
 ## Data Unit
+
+Layer 4 data unit = Segment (TCP)
+Sometimes referred to as Datagram (UDP)
