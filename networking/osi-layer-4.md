@@ -64,3 +64,9 @@ Used for:
 Web browsing
 Email
 File transfer
+
+**User Datagram Protocol `UDP`**
+Connectionless
+Faster
+No guaranteed delivery
+No sequencing
