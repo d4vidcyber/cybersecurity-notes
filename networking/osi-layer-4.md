@@ -70,3 +70,8 @@ Connectionless
 Faster
 No guaranteed delivery
 No sequencing
+Used for:
+Streaming
+VoIP
+Online gaming
+DNS queries
