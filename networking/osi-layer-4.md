@@ -53,3 +53,4 @@ Ports identify specific applications running on a device.
 Port number identifies the application.
 
 ## Core Protocols
+**Transmission Control Protocol `TCP`**
