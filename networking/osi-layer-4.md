@@ -53,24 +53,31 @@ Ports identify specific applications running on a device.
 Port number identifies the application.
 
 ## Core Protocols
+
 **Transmission Control Protocol `TCP`**
+
 Connection-oriented
 Reliable
 Ordered delivery
 Error checking
 Flow control
 Three-way handshake
+
 Used for:
+
 Web browsing
 Email
 File transfer
 
 **User Datagram Protocol `UDP`**
+
 Connectionless
 Faster
 No guaranteed delivery
 No sequencing
+
 Used for:
+
 Streaming
 VoIP
 Online gaming
