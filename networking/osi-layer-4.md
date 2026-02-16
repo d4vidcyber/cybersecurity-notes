@@ -78,13 +78,13 @@ File transfer
 
 **User Datagram Protocol `UDP`**
 
-Connectionless
+  - Connectionless
 
-Faster
+  - Faster
 
-No guaranteed delivery
+  - No guaranteed delivery
 
-No sequencing
+  - No sequencing
 
 Used for:
 
