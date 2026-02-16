@@ -71,7 +71,9 @@ Three-way handshake
 Used for:
 
 Web browsing
+
 Email
+
 File transfer
 
 **User Datagram Protocol `UDP`**
