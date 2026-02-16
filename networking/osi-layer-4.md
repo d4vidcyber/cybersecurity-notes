@@ -60,3 +60,7 @@ Ordered delivery
 Error checking
 Flow control
 Three-way handshake
+Used for:
+Web browsing
+Email
+File transfer
