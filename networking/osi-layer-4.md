@@ -88,10 +88,10 @@ No sequencing
 
 Used for:
 
-Streaming
+  - Streaming
 
-VoIP
+  - VoIP
 
-Online gaming
+  - Online gaming
 
-DNS queries
+  - DNS queries
