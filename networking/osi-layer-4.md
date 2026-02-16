@@ -87,6 +87,9 @@ No sequencing
 Used for:
 
 Streaming
+
 VoIP
+
 Online gaming
+
 DNS queries
