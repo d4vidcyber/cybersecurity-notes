@@ -57,10 +57,15 @@ Port number identifies the application.
 **Transmission Control Protocol `TCP`**
 
 Connection-oriented
+
 Reliable
+
 Ordered delivery
+
 Error checking
+
 Flow control
+
 Three-way handshake
 
 Used for:
