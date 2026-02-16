@@ -70,11 +70,11 @@ Three-way handshake
 
 Used for:
 
-Web browsing
+  - Web browsing
 
-Email
+  - Email
 
-File transfer
+  - File transfer
 
 **User Datagram Protocol `UDP`**
 
