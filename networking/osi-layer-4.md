@@ -77,8 +77,11 @@ File transfer
 **User Datagram Protocol `UDP`**
 
 Connectionless
+
 Faster
+
 No guaranteed delivery
+
 No sequencing
 
 Used for:
