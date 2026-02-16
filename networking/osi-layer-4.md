@@ -56,17 +56,17 @@ Port number identifies the application.
 
 **Transmission Control Protocol `TCP`**
 
-Connection-oriented
+  - Connection-oriented
 
-Reliable
+  - Reliable
 
-Ordered delivery
+  - Ordered delivery
 
-Error checking
+  - Error checking
 
-Flow control
+  - Flow control
 
-Three-way handshake
+  - Three-way handshake
 
 Used for:
 
