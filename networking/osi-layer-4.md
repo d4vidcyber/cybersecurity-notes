@@ -54,3 +54,9 @@ Port number identifies the application.
 
 ## Core Protocols
 **Transmission Control Protocol `TCP`**
+Connection-oriented
+Reliable
+Ordered delivery
+Error checking
+Flow control
+Three-way handshake
