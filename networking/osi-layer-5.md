@@ -4,7 +4,9 @@ The Session Layer manages communication sessions between applications on differe
 It does not transport data (Layer 4) or format data (Layer 6); it manages the conversation structure between application
 
 Role and Purpose of Layer 5
+
 The primary purpose of Layer 5 is to ensure that communication between two applications remains organized and coordinated.
+
 It provides:
 Session lifecycle control
 Communication structure management
