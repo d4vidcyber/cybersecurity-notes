@@ -10,4 +10,4 @@ Session lifecycle control
 Communication structure management
 Recovery support during interruptions
 
-Layer 5 ensures communication happens in a controlled and orderly manner.
+> Layer 5 ensures communication happens in a controlled and orderly manner.
