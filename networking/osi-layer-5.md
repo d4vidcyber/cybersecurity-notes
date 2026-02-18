@@ -10,10 +10,10 @@ The primary purpose of Layer 5 is to ensure that communication between two appli
 
 **It provides:**
 
-Session lifecycle control
+  - Session lifecycle control
 
-Communication structure management
+  - Communication structure management
 
-Recovery support during interruptions
+  - Recovery support during interruptions
 
 > Layer 5 ensures communication happens in a controlled and orderly manner.
