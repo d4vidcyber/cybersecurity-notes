@@ -24,3 +24,4 @@ This includes:
 Verifying both parties are ready
 Negotiating session parameters
 Allocating necessary resources
+A session must be successfully established before data exchange begins.
