@@ -24,10 +24,10 @@ Session establishment is the process of initiating communication between two app
 
 This includes:
 
-Verifying both parties are ready
+  - Verifying both parties are ready
 
-Negotiating session parameters
+  - Negotiating session parameters
 
-Allocating necessary resources
+  - Allocating necessary resources
 
 > A session must be successfully established before data exchange begins.
