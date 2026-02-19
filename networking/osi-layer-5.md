@@ -17,3 +17,5 @@ The primary purpose of Layer 5 is to ensure that communication between two appli
   - Recovery support during interruptions
 
 > Layer 5 ensures communication happens in a controlled and orderly manner.
+
+Session Establishment
