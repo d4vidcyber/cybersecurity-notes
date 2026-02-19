@@ -18,7 +18,7 @@ The primary purpose of Layer 5 is to ensure that communication between two appli
 
 > Layer 5 ensures communication happens in a controlled and orderly manner.
 
-Session Establishment
+## Session Establishment
 
 Session establishment is the process of initiating communication between two applications.
 
