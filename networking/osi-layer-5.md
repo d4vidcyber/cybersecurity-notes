@@ -38,12 +38,12 @@ Session maintenance keeps the session active and stable during communication.
 
 **It involves:**
 
-Monitoring session state
+  - Monitoring session state
 
-Keeping track of ongoing exchanges
+  - Keeping track of ongoing exchanges
 
-Managing timeouts or inactivity
+  - Managing timeouts or inactivity
 
-Ensuring session continuity
+  - Ensuring session continuity
 
 If issues occur, the session layer helps manage recovery or re-synchronization.
