@@ -31,3 +31,5 @@ Session establishment is the process of initiating communication between two app
   - Allocating necessary resources
 
 > A session must be successfully established before data exchange begins.
+
+Session Maintenance
