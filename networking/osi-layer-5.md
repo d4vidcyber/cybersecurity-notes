@@ -35,3 +35,7 @@ Session establishment is the process of initiating communication between two app
 Session Maintenance
 Session maintenance keeps the session active and stable during communication.
 It involves:
+Monitoring session state
+Keeping track of ongoing exchanges
+Managing timeouts or inactivity
+Ensuring session continuity
