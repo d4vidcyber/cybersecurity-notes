@@ -39,3 +39,4 @@ Monitoring session state
 Keeping track of ongoing exchanges
 Managing timeouts or inactivity
 Ensuring session continuity
+If issues occur, the session layer helps manage recovery or re-synchronization.
