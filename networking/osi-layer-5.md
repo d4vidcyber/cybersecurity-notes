@@ -55,7 +55,9 @@ Session termination is the process of properly closing a communication session a
 **It involves:**
 
 Notifying both parties that communication is ending
+
 Releasing allocated session resources
+
 Ensuring no data is left in transit
 
 > Proper termination prevents resource leaks and incomplete communication states.
