@@ -47,3 +47,5 @@ Session maintenance keeps the session active and stable during communication.
   - Ensuring session continuity
 
 > If issues occur, the session layer helps manage recovery or re-synchronization.
+
+Session Termination
