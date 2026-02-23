@@ -66,7 +66,7 @@ Session termination is the process of properly closing a communication session a
 
 Dialog control determines how data flows during a session.
 
-Communication modes:
+**Communication modes:**
 
   - Half-duplex → One direction at a time
 
