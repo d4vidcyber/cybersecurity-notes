@@ -61,3 +61,5 @@ Session termination is the process of properly closing a communication session a
   - Ensuring no data is left in transit
 
 > Proper termination prevents resource leaks and incomplete communication states.
+
+Dialog Control (Half-Duplex vs Full-Duplex)
