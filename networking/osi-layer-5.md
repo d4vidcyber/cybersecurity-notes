@@ -65,3 +65,5 @@ Session termination is the process of properly closing a communication session a
 Dialog Control (Half-Duplex vs Full-Duplex)
 Dialog control determines how data flows during a session.
 Communication modes:
+Half-duplex → One direction at a time
+Full-duplex → Both directions simultaneously
