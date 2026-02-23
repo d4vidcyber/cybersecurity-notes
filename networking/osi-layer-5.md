@@ -68,8 +68,8 @@ Dialog control determines how data flows during a session.
 
 Communication modes:
 
-Half-duplex → One direction at a time
+  - Half-duplex → One direction at a time
 
-Full-duplex → Both directions simultaneously
+  - Full-duplex → Both directions simultaneously
 
 Layer 5 coordinates which side transmits and when, ensuring structured interaction between applications.
