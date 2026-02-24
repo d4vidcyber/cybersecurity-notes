@@ -79,6 +79,7 @@ Synchronization and Checkpointing
 Synchronization introduces checkpoints during long communication sessions.
 
 Purpose:
+
 Allows recovery from failures
 Enables communication to resume from the last checkpoint
 Prevents restarting entire transmissions
