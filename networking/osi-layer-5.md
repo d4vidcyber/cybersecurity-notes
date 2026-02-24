@@ -73,3 +73,5 @@ Dialog control determines how data flows during a session.
   - Full-duplex → Both directions simultaneously
 
 > Layer 5 coordinates which side transmits and when, ensuring structured interaction between applications.
+
+Synchronization and Checkpointing
