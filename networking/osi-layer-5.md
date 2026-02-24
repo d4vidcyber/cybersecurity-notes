@@ -78,7 +78,7 @@ Dialog control determines how data flows during a session.
 
 Synchronization introduces checkpoints during long communication sessions.
 
-Purpose:
+**Purpose:**
 
 Allows recovery from failures
 
