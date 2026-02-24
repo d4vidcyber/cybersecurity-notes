@@ -86,4 +86,4 @@ Synchronization introduces checkpoints during long communication sessions.
 
   - Prevents restarting entire transmissions
 
-This is especially useful for long data exchanges.
+> This is especially useful for long data exchanges.
