@@ -75,6 +75,7 @@ Dialog control determines how data flows during a session.
 > Layer 5 coordinates which side transmits and when, ensuring structured interaction between applications.
 
 Synchronization and Checkpointing
+
 Synchronization introduces checkpoints during long communication sessions.
 Purpose:
 Allows recovery from failures
