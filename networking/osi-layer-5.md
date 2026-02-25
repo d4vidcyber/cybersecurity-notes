@@ -91,6 +91,7 @@ Synchronization introduces checkpoints during long communication sessions.
 ## Token Management
 
 Token management controls which party has permission to transmit at a given time.
+
 A logical “token” may be used to regulate communication
 Prevents simultaneous conflicting operations
 Ensures orderly session interaction
