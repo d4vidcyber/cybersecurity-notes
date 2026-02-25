@@ -98,4 +98,4 @@ Token management controls which party has permission to transmit at a given time
 
   - Ensures orderly session interaction
 
-This mechanism is important in structured or coordinated communication environments.
+> This mechanism is important in structured or coordinated communication environments.
