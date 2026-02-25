@@ -95,4 +95,5 @@ Token management controls which party has permission to transmit at a given time
 A logical “token” may be used to regulate communication
 Prevents simultaneous conflicting operations
 Ensures orderly session interaction
+
 This mechanism is important in structured or coordinated communication environments.
