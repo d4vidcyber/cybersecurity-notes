@@ -267,6 +267,7 @@ There are three types of Network switching:
     > Example: The Internet.
 
   - **Message Switching:** Data is sent as a complete message to the network, stored temporarily at intermediate nodes, and then forwarded to the next node until it reaches the destination. Also know as store-and-forward switching.
+
     > Example: Email systems and early telegraph networks.
 
 ### Comparision of Network Switching Types
