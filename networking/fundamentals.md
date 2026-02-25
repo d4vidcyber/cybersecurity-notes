@@ -74,6 +74,8 @@ Network models describe how network communication is structured and standardized
   - **Layer 3 `Network`:** Handles logical addressing and routing.
     > Example: `IP` routing packets across networks.
     
+[Click here for more...](./osi-layer-3.md)
+
   - **Layer 4 `Transport`:** Ensures reliable or fast data delivery.
     > Example: `TCP` for reliable transmission, `UDP` for fast streaming.
     
