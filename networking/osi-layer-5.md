@@ -89,3 +89,5 @@ Synchronization introduces checkpoints during long communication sessions.
 > This is especially useful for long data exchanges.
 
 Token Management
+
+Token management controls which party has permission to transmit at a given time.
