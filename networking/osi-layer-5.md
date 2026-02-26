@@ -112,4 +112,4 @@ Although modern TCP/IP networks often integrate session functions into other lay
 
 Database sessions (e.g., SQL session management)
 
-These technologies demonstrate session establishment, maintenance, and termination concepts in practical systems.
+> These technologies demonstrate session establishment, maintenance, and termination concepts in practical systems.
