@@ -106,3 +106,4 @@ NetBIOS Session Service
 RPC (Remote Procedure Call)
 PPTP sessions
 Database sessions (e.g., SQL session management)
+These technologies demonstrate session establishment, maintenance, and termination concepts in practical systems.
