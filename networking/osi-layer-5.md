@@ -101,6 +101,7 @@ Token management controls which party has permission to transmit at a given time
 > This mechanism is important in structured or coordinated communication environments.
 
 ## Examples of Session-Based Technologies
+
 Although modern TCP/IP networks often integrate session functions into other layers, session-related behavior appears in:
 NetBIOS Session Service
 RPC (Remote Procedure Call)
