@@ -104,11 +104,11 @@ Token management controls which party has permission to transmit at a given time
 
 Although modern TCP/IP networks often integrate session functions into other layers, session-related behavior appears in:
 
-NetBIOS Session Service
+  - NetBIOS Session Service
 
-RPC (Remote Procedure Call)
+  - RPC (Remote Procedure Call)
 
-PPTP sessions
+  - PPTP sessions
 
 Database sessions (e.g., SQL session management)
 
