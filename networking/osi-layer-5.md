@@ -102,7 +102,7 @@ Token management controls which party has permission to transmit at a given time
 
 ## Examples of Session-Based Technologies
 
-Although modern TCP/IP networks often integrate session functions into other layers, session-related behavior appears in:
+Although modern `TCP`/`IP` networks often integrate session functions into other layers, session-related behavior appears in:
 
   - NetBIOS Session Service
 
