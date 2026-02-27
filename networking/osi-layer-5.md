@@ -113,3 +113,5 @@ Although modern `TCP`/`IP` networks often integrate session functions into other
   - Database sessions (e.g., SQL session management)
 
 > These technologies demonstrate session establishment, maintenance, and termination concepts in practical systems.
+
+Relationship with Layer 4 and Layer 6
