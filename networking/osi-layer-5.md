@@ -123,3 +123,4 @@ Does not manage data transport itself.
 Interaction with Layer 6 (Presentation):
 Receives formatted/encoded data from Layer 6.
 Manages the session context for that data exchange.
+Key Distinction
