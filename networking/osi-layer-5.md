@@ -115,3 +115,4 @@ Although modern `TCP`/`IP` networks often integrate session functions into other
 > These technologies demonstrate session establishment, maintenance, and termination concepts in practical systems.
 
 Relationship with Layer 4 and Layer 6
+The Session Layer operates between the Transport Layer (Layer 4) and the Presentation Layer (Layer 6).
