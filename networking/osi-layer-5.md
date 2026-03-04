@@ -134,4 +134,5 @@ Manages the session context for that data exchange.
 Layer 4 → Handles data delivery (segments, reliability, ports).
 Layer 5 → Manages the communication session (start, maintain, end).
 Layer 6 → Handles data format and representation.
+
 Layer 5 ensures communication between applications remains organized, stateful, and coordinated throughout its lifecycle.
