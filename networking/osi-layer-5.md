@@ -123,7 +123,7 @@ Uses Layer 4 to transmit session data.
 Relies on TCP/UDP for reliable or fast delivery.
 Does not manage data transport itself.
 
-Interaction with Layer 6 (Presentation):
+**Interaction with Layer 6 (Presentation):**
 Receives formatted/encoded data from Layer 6.
 Manages the session context for that data exchange.
 
