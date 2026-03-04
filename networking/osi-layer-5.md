@@ -128,6 +128,7 @@ Receives formatted/encoded data from Layer 6.
 Manages the session context for that data exchange.
 
 Key Distinction
+
 Layer 4 → Handles data delivery (segments, reliability, ports).
 Layer 5 → Manages the communication session (start, maintain, end).
 Layer 6 → Handles data format and representation.
