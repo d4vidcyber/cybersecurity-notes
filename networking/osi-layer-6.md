@@ -14,7 +14,7 @@ The Presentation Layer ensures that data exchanged between systems is in a forma
 
   - Prepare data for application-layer processing
 
-Apply encryption and decryption when required
+  - Apply encryption and decryption when required
 
   - Support compression to optimize transmission
 
