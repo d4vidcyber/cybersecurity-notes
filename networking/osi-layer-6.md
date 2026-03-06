@@ -9,6 +9,7 @@ This layer acts as a translator between the application and the networ
 The Presentation Layer ensures that data exchanged between systems is in a format both sides can understand. It acts as the data interpreter of the OSI model.
 
 Primary purposes:
+
 Translate data between different system formats
 Prepare data for application-layer processing
 Apply encryption and decryption when required
