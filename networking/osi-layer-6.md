@@ -11,6 +11,7 @@ The Presentation Layer ensures that data exchanged between systems is in a forma
 **Primary purposes:**
 
   - Translate data between different system formats
+
 Prepare data for application-layer processing
 Apply encryption and decryption when required
 Support compression to optimize transmission
