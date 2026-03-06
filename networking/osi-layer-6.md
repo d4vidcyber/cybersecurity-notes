@@ -15,6 +15,7 @@ The Presentation Layer ensures that data exchanged between systems is in a forma
 Prepare data for application-layer processing
 
 Apply encryption and decryption when required
+
 Support compression to optimize transmission
 
 > In essence, Layer 6 ensures data meaning and structure remain consistent across different systems.
