@@ -19,3 +19,5 @@ The Presentation Layer ensures that data exchanged between systems is in a forma
   - Support compression to optimize transmission
 
 > In essence, Layer 6 ensures data meaning and structure remain consistent across different systems.
+
+Data Translation
