@@ -28,7 +28,7 @@ Because different systems may use different internal data representations, trans
 
 **Examples include:**
 
-Converting between different character encodings
+  - Converting between different character encodings
 
 Translating data structures between systems
 
