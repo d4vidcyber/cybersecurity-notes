@@ -23,6 +23,7 @@ The Presentation Layer ensures that data exchanged between systems is in a forma
 Data Translation
 Data translation is the process of converting data from one format into another so that different systems can interpret it correctly.
 Because different systems may use different internal data representations, translation ensures compatibility during communication.
+
 Examples include:
 Converting between different character encodings
 Translating data structures between systems
