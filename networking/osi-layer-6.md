@@ -20,7 +20,7 @@ The Presentation Layer ensures that data exchanged between systems is in a forma
 
 > In essence, Layer 6 ensures data meaning and structure remain consistent across different systems.
 
-Data Translation
+## Data Translation
 Data translation is the process of converting data from one format into another so that different systems can interpret it correctly.
 Because different systems may use different internal data representations, translation ensures compatibility during communication.
 
