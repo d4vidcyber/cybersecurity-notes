@@ -30,7 +30,7 @@ Because different systems may use different internal data representations, trans
 
   - Converting between different character encodings
 
-Translating data structures between systems
+  - Translating data structures between systems
 
 Converting numeric representations between architectures
 
