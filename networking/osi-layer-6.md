@@ -26,7 +26,7 @@ Data translation is the process of converting data from one format into another 
 
 Because different systems may use different internal data representations, translation ensures compatibility during communication.
 
-Examples include:
+**Examples include:**
 Converting between different character encodings
 Translating data structures between systems
 Converting numeric representations between architectures
