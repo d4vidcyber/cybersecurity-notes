@@ -40,6 +40,7 @@ Because different systems may use different internal data representations, trans
 
 Data format conversion ensures that data structures used by one system can be understood by another system with a different format.
 It involves adjusting how data is organized or structured during transmission.
+
 Examples:
 Converting document formats
 Standardizing structured data representations
