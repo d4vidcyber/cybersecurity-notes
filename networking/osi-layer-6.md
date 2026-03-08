@@ -46,7 +46,7 @@ It involves adjusting how data is organized or structured during transmission.
 
  - Converting document formats
 
-Standardizing structured data representations
+  - Standardizing structured data representations
 
 Ensuring consistent data layout across platforms
 
