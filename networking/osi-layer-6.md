@@ -48,6 +48,6 @@ It involves adjusting how data is organized or structured during transmission.
 
   - Standardizing structured data representations
 
-Ensuring consistent data layout across platforms
+  - Ensuring consistent data layout across platforms
 
 > This allows applications running on different systems to process received data without format conflicts.
