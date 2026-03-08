@@ -49,4 +49,4 @@ Standardizing structured data representations
 
 Ensuring consistent data layout across platforms
 
-This allows applications running on different systems to process received data without format conflicts.
+> This allows applications running on different systems to process received data without format conflicts.
