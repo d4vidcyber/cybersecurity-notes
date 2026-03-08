@@ -44,7 +44,7 @@ It involves adjusting how data is organized or structured during transmission.
 
 **Examples:**
 
- - Converting document formats
+  - Converting document formats
 
   - Standardizing structured data representations
 
