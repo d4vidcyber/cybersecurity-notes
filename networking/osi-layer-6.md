@@ -42,6 +42,7 @@ Data format conversion ensures that data structures used by one system can be un
 It involves adjusting how data is organized or structured during transmission.
 
 Examples:
+
 Converting document formats
 
 Standardizing structured data representations
