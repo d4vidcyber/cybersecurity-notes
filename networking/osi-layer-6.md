@@ -51,3 +51,5 @@ It involves adjusting how data is organized or structured during transmission.
   - Ensuring consistent data layout across platforms
 
 > This allows applications running on different systems to process received data without format conflicts.
+
+Data Serialization
