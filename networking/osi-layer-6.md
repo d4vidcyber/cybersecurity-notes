@@ -53,6 +53,7 @@ It involves adjusting how data is organized or structured during transmission.
 > This allows applications running on different systems to process received data without format conflicts.
 
 ## Data Serialization
+
 Data serialization is the process of converting structured data into a format that can be transmitted across a network and reconstructed later.
 
 It allows complex data structures (objects, arrays, records) to be converted into a stream of bytes for transmission.
