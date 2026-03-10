@@ -59,4 +59,4 @@ It allows complex data structures (objects, arrays, records) to be converted int
 
 After transmission, the receiving system performs deserialization to reconstruct the original data structure.
 
-Serialization ensures consistent data structure interpretation across different systems.
+> Serialization ensures consistent data structure interpretation across different systems.
