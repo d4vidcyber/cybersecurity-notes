@@ -58,4 +58,5 @@ Data serialization is the process of converting structured data into a format th
 It allows complex data structures (objects, arrays, records) to be converted into a stream of bytes for transmission.
 
 After transmission, the receiving system performs deserialization to reconstruct the original data structure.
+
 Serialization ensures consistent data structure interpretation across different systems.
