@@ -36,6 +36,7 @@ We are given some commands that might help us solve the challenge:
 
 | cat | file | cd  | du  | ls  |
 | --- | ---- | --- | --- | --- |
+
 %% solution tips %%
 
 After getting the password in `Bandit Level 0` to progress into `Bandit Level 1`. Log out from the current ssh session and use the password to log in as `bandit1` to hostname `bandit.labs.overthewire.org` to enter `Bandit Level 1`.
