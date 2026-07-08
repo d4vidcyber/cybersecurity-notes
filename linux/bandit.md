@@ -3,7 +3,6 @@ The Bandit wargame is aimed at absolute beginners. It teaches the basics needed 
 
 
 # Level 0
----
 
 The goal of this level is to log into the game using SSH. The host to which you need to connect is `bandit.labs.overthewire.org`, on port `2220`. The username is `bandit0` and the password is `bandit0`. 
 
@@ -27,7 +26,6 @@ $ ssh bandit0@bandit.labs.overthewire.org -p 2220
 After successfully running the command, you will be prompted for a password. Which was given in `Bandit Level 0` page.
 
 # Level 1
-___
 
 Progressing into the next level, `Bandit Level 1` , requires you to view the contents of a file named `readme` . This file is in the home directory of `Bandit Level 0` and the password for progressing into `Bandit Level 1` is stored inside.
 
@@ -49,6 +47,5 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 _You are now a Level 1 Bandit_
 
 # Level 2
-___
 
 m
