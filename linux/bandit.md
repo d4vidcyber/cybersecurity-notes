@@ -37,7 +37,8 @@ We are given some commands that might help us solve the challenge:
 | ls  | cd  | cat | file | du  | find |
 | --- | --- | --- | ---- | --- | ---- |
 
-<!-- solution tips -->
+The first thing you would want to do, is to skim through some materials about the commands given above.
+> You can use [Google](https://goggle.com) or the [Ubuntu Manpages](https://manpages.ubuntu.com/manpages/noble/man1/)
 
 After getting the password in `Bandit Level 0` to progress into `Bandit Level 1`. 
 Log out from the current ssh session and use the password to log in as `bandit1` to hostname `bandit.labs.overthewire.org` to enter `Bandit Level 1`.
